@@ -186,20 +186,6 @@
         font-size: 0.9rem;
       }
 
-      .voice-state {
-        display: inline-block;
-        margin-top: 10px;
-        font-size: 0.76rem;
-        border-radius: 999px;
-        border: 1px solid #6f7db2;
-        padding: 3px 8px;
-      }
-
-      .voice-card.is-active .voice-state {
-        border-color: #ff98c8;
-        color: #ffe3f0;
-      }
-
       .voice-card:focus-visible {
         outline: 2px solid #ff98c8;
         outline-offset: 2px;
@@ -250,21 +236,18 @@
           <p class="voice-lang">French</p>
           <h3 class="voice-name">Original Voice</h3>
           <p class="voice-desc">Untouched segment from the broadcast.</p>
-          <span class="voice-state">Active</span>
         </button>
 
         <button class="voice-card" type="button" data-voice-id="english" aria-pressed="false">
           <p class="voice-lang">English</p>
           <h3 class="voice-name">Clone 1</h3>
           <p class="voice-desc">English localized clone with matching pacing.</p>
-          <span class="voice-state">Select + Play</span>
         </button>
 
         <button class="voice-card" type="button" data-voice-id="spanish" aria-pressed="false">
           <p class="voice-lang">Spanish</p>
           <h3 class="voice-name">Clone 1</h3>
           <p class="voice-desc">Spanish localized clone with matching pacing.</p>
-          <span class="voice-state">Select + Play</span>
         </button>
       </section>
     </main>
@@ -308,8 +291,6 @@
           const isActive = card.dataset.voiceId === nextVoiceId;
           card.classList.toggle("is-active", isActive);
           card.setAttribute("aria-pressed", String(isActive));
-          const state = card.querySelector(".voice-state");
-          if (state) state.textContent = isActive ? "Active" : "Select + Play";
         });
       }
 
