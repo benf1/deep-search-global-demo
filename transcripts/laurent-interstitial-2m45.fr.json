@@ -1,0 +1,175 @@
+{
+  "detected_language": "fr",
+  "language_probability": 1,
+  "duration": 165.0035,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Bonsoir et bienvenue sur Deepsearch, Charles Aznavour qui chante « Bonne anniversaire ».",
+      "avg_logprob": -0.25151898619833957,
+      "no_speech_prob": 0.10851436853408813
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "Je me demande bien pourquoi j'ai décidé d'ouvrir l'émission avec ça.",
+      "avg_logprob": -0.25151898619833957,
+      "no_speech_prob": 0.10851436853408813
+    },
+    {
+      "start": 19.0,
+      "end": 26.0,
+      "text": "Bon, je pense qu'il y en a déjà pas mal qui le savent, mais ce soir, à minuit exactement, on passe au 1er février",
+      "avg_logprob": -0.25151898619833957,
+      "no_speech_prob": 0.10851436853408813
+    },
+    {
+      "start": 26.0,
+      "end": 33.0,
+      "text": "et moi, là, je passe de l'autre côté de la montagne. Je prends 60 ans.",
+      "avg_logprob": -0.1332997466222598,
+      "no_speech_prob": 0.07670605182647705
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "Ouais, c'est le Big 6 O, le genre de truc qui pique un peu les yeux quand même.",
+      "avg_logprob": -0.1332997466222598,
+      "no_speech_prob": 0.07670605182647705
+    },
+    {
+      "start": 40.0,
+      "end": 48.0,
+      "text": "Donc ce soir, émission un petit peu spéciale, voilà pourquoi nous avons décalé l'émission à cette nuit",
+      "avg_logprob": -0.1332997466222598,
+      "no_speech_prob": 0.07670605182647705
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": "parce que vu que c'est mon anniversaire, et pas des moindres d'ailleurs,",
+      "avg_logprob": -0.1332997466222598,
+      "no_speech_prob": 0.07670605182647705
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "fallait bien que je marque le coup en vous proposant une émission différente.",
+      "avg_logprob": -0.11255565916912423,
+      "no_speech_prob": 0.07485529780387878
+    },
+    {
+      "start": 59.0,
+      "end": 63.0,
+      "text": "En 1966, Johnny chante « Noir c'est noir ».",
+      "avg_logprob": -0.11255565916912423,
+      "no_speech_prob": 0.07485529780387878
+    },
+    {
+      "start": 64.0,
+      "end": 70.0,
+      "text": "Hendrix chante « Hey Joe ». Nancy Sinatra chante « Bang Bang ».",
+      "avg_logprob": -0.11255565916912423,
+      "no_speech_prob": 0.07485529780387878
+    },
+    {
+      "start": 71.0,
+      "end": 85.02,
+      "text": "Et Carla Thomas chante ça. Carla Thomas chante « Baby ».",
+      "avg_logprob": -0.11255565916912423,
+      "no_speech_prob": 0.07485529780387878
+    },
+    {
+      "start": 86.02,
+      "end": 95.02,
+      "text": "Moi, j'arrive en 1966. Donc, ouvrir avec un morceau de 66, qui s'appelle « Baby », ça a du sens.",
+      "avg_logprob": -0.11438584268683254,
+      "no_speech_prob": 0.0582566037774086
+    },
+    {
+      "start": 96.02,
+      "end": 101.02,
+      "text": "Ce soir, nous allons écouter beaucoup, beaucoup, mais alors vraiment beaucoup de musique.",
+      "avg_logprob": -0.11438584268683254,
+      "no_speech_prob": 0.0582566037774086
+    },
+    {
+      "start": 102.02,
+      "end": 107.02,
+      "text": "Vu la pelisse que je vous ai préparée, nous allons passer toute la nuit ensemble.",
+      "avg_logprob": -0.11438584268683254,
+      "no_speech_prob": 0.0582566037774086
+    },
+    {
+      "start": 108.02,
+      "end": 113.02,
+      "text": "Ouais, vous m'avez bien entendu, je vais vous jouer de la musique jusqu'au petit matin.",
+      "avg_logprob": -0.11438584268683254,
+      "no_speech_prob": 0.0582566037774086
+    },
+    {
+      "start": 114.02,
+      "end": 121.02,
+      "text": "En fait, nous allons remonter le temps musicalement de 1966 à 2026.",
+      "avg_logprob": -0.06984202985962232,
+      "no_speech_prob": 0.016564050689339638
+    },
+    {
+      "start": 122.02,
+      "end": 126.02,
+      "text": "Les morceaux que j'ai sélectionnés résonnent tous particulièrement pour moi.",
+      "avg_logprob": -0.06984202985962232,
+      "no_speech_prob": 0.016564050689339638
+    },
+    {
+      "start": 127.02,
+      "end": 130.02,
+      "text": "On ne sait jamais trop pourquoi un titre va nous marquer plus qu'un autre,",
+      "avg_logprob": -0.06984202985962232,
+      "no_speech_prob": 0.016564050689339638
+    },
+    {
+      "start": 131.02,
+      "end": 136.02,
+      "text": "mais ce soir, je vais profiter de vous jouer uniquement des morceaux qui me font surkiffer.",
+      "avg_logprob": -0.06984202985962232,
+      "no_speech_prob": 0.016564050689339638
+    },
+    {
+      "start": 137.02,
+      "end": 142.02,
+      "text": "Et comme la musique a ce pouvoir de convoquer les souvenirs d'un moment, d'un lieu ou d'une personne,",
+      "avg_logprob": -0.06984202985962232,
+      "no_speech_prob": 0.016564050689339638
+    },
+    {
+      "start": 143.02,
+      "end": 147.02,
+      "text": "ce soir, je vais vous jouer de la musique toute la nuit et vous raconter des histoires.",
+      "avg_logprob": -0.08857451361768386,
+      "no_speech_prob": 0.030054958537220955
+    },
+    {
+      "start": 148.02,
+      "end": 152.02,
+      "text": "La magie des morceaux qui nous touchent nous permet d'imprimer à jamais nos aventures",
+      "avg_logprob": -0.08857451361768386,
+      "no_speech_prob": 0.030054958537220955
+    },
+    {
+      "start": 153.02,
+      "end": 159.02,
+      "text": "et forcément, vu mon parcours, beaucoup de mes souvenirs sont liés avec un endroit qui m'est particulièrement cher.",
+      "avg_logprob": -0.08857451361768386,
+      "no_speech_prob": 0.030054958537220955
+    },
+    {
+      "start": 160.02,
+      "end": 161.02,
+      "text": "Le Dancefloor.",
+      "avg_logprob": -0.08857451361768386,
+      "no_speech_prob": 0.030054958537220955
+    }
+  ]
+}

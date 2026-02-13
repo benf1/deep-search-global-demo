@@ -1,0 +1,2807 @@
+{
+  "detected_language": "fr",
+  "language_probability": 1,
+  "duration": 4265.6653125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Deep search.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Deep search.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Deep search.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Bonjour, c'est Cynthia.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "text": "Aujourd'hui, samedi 30 et un janvier 2026, 250 830 de nouveaux morceaux ont été ajoutés à notre playlist.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "Dans un souci de performance maximale, voici les nouvelles fonctionnalités d'écoute disponibles.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "Pour une écoute de foi plus efficace en mode stéréo, pressé 1.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Pour un gain de temps optimal, en mode accéléré, pressé 2.",
+      "avg_logprob": -0.21279323387145996,
+      "no_speech_prob": 0.08785407990217209
+    },
+    {
+      "start": 27.0,
+      "end": 33.72,
+      "text": "Pour une performance augmentée, mode snippet interchangeable, pressé 3.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 33.72,
+      "end": 34.72,
+      "text": "Pressé 17.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 34.72,
+      "end": 36.72,
+      "text": "Pour le mode amplification binaire de musique déstructurée.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 36.72,
+      "end": 39.1,
+      "text": "Pressé 29.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 39.1,
+      "end": 42.1,
+      "text": "Pour le mode prouesse maximale, multi-diffusion à triple niveau de phase inversée.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 44.1,
+      "end": 47.1,
+      "text": "Si c'est votre anniversaire, tapez 210.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 49.1,
+      "end": 53.1,
+      "text": "Bonjour, mon nom est Laurent Garnier et je ne suis toujours pas une machine.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 53.1,
+      "end": 56.1,
+      "text": "Et ce mois-ci, j'ai encore écouté des milliers de morceaux,",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 56.1,
+      "end": 60.1,
+      "text": "afin de ne retenir que le meilleur, rien que pour vous.",
+      "avg_logprob": -0.12495237102313918,
+      "no_speech_prob": 0.02467331476509571
+    },
+    {
+      "start": 71.56,
+      "end": 77.56,
+      "text": "C'est à tard de te voir, nervieuse à d'experer.",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 77.56,
+      "end": 80.56,
+      "text": "C'est pour ça que je me suis vécu,",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 80.56,
+      "end": 83.56,
+      "text": "à peine sans parler.",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 83.56,
+      "end": 86.56,
+      "text": "Aujourd'hui, c'est une année, aujourd'hui,",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 86.56,
+      "end": 89.56,
+      "text": "que je suis heureux et sans doute,",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 89.56,
+      "end": 92.56,
+      "text": "de oublie, je t'ai mis",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 92.56,
+      "end": 95.56,
+      "text": "devant le joueur, de l'hôpital.",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 95.56,
+      "end": 98.56,
+      "text": "Et j'ai regardé le clock,",
+      "avg_logprob": -0.6799989321015097,
+      "no_speech_prob": 0.44902896881103516
+    },
+    {
+      "start": 98.56,
+      "end": 101.56,
+      "text": "les 8 vont être,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 101.56,
+      "end": 104.56,
+      "text": "ton trajet n'est pas arrivé,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 104.56,
+      "end": 107.56,
+      "text": "tu l'as attendu d'hier,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 107.56,
+      "end": 110.56,
+      "text": "et le moigneur qui est lucide,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 110.56,
+      "end": 113.56,
+      "text": "t'attends aujourd'hui,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 113.56,
+      "end": 116.56,
+      "text": "avec tant d'ir et de venir,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 116.56,
+      "end": 120.56,
+      "text": "t'as terminé de pleurer.",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 120.56,
+      "end": 123.56,
+      "text": "T'envends et vas,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 123.56,
+      "end": 126.56,
+      "text": "au milieu du salon,",
+      "avg_logprob": -0.6521704399839361,
+      "no_speech_prob": 0.15206098556518555
+    },
+    {
+      "start": 126.56,
+      "end": 129.56,
+      "text": "t'envends plus et plus,",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 129.56,
+      "end": 132.56,
+      "text": "le même que un cycle.",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 132.56,
+      "end": 135.56,
+      "text": "Et tu ne sais pas ce que faire,",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 135.56,
+      "end": 138.56,
+      "text": "si tu ris de pleurer,",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 138.56,
+      "end": 141.56,
+      "text": "je complique mon devoir,",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 141.56,
+      "end": 144.56,
+      "text": "je dois falloir,",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 144.56,
+      "end": 147.56,
+      "text": "tu ne veux pas prétendre",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 147.56,
+      "end": 150.56,
+      "text": "que je garde la fonction.",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 150.56,
+      "end": 153.56,
+      "text": "Et nous ne pouvons pas voir",
+      "avg_logprob": -0.45889855158038256,
+      "no_speech_prob": 0.0108876284211874
+    },
+    {
+      "start": 153.56,
+      "end": 156.56,
+      "text": "ni un acte de manon",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 156.56,
+      "end": 159.56,
+      "text": "tomando sin tardar",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 159.56,
+      "end": 162.56,
+      "text": "en vuelo un avion",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 162.56,
+      "end": 165.56,
+      "text": "podríamos llegar",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 165.56,
+      "end": 168.56,
+      "text": "al bajar el pelon.",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 168.56,
+      "end": 175.53,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 175.53,
+      "end": 181.6,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 181.6,
+      "end": 184.6,
+      "text": "el vestido llegó",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 184.6,
+      "end": 187.6,
+      "text": "ya puedes respirar",
+      "avg_logprob": -0.24422466932837641,
+      "no_speech_prob": 0.028125766664743423
+    },
+    {
+      "start": 187.6,
+      "end": 190.6,
+      "text": "también respiro yo",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 190.6,
+      "end": 193.6,
+      "text": "a punto de estallar",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 193.6,
+      "end": 196.6,
+      "text": "más pronto comenzó",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 196.6,
+      "end": 199.6,
+      "text": "un drama singular",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 199.6,
+      "end": 202.6,
+      "text": "tu traje no cerro",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 202.6,
+      "end": 205.6,
+      "text": "y te oiso y osar",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 205.6,
+      "end": 208.6,
+      "text": "a tu espalda corrí",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 208.6,
+      "end": 211.6,
+      "text": "con ganas de ayudar",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 211.6,
+      "end": 214.6,
+      "text": "tan palida te vi",
+      "avg_logprob": -0.22861958128302845,
+      "no_speech_prob": 0.009622163139283657
+    },
+    {
+      "start": 214.6,
+      "end": 217.6,
+      "text": "como una flor de azar",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 217.6,
+      "end": 220.6,
+      "text": "y el cierre escorrí",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 220.6,
+      "end": 223.6,
+      "text": "más luego al intentar",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 223.6,
+      "end": 226.6,
+      "text": "cerrarlo lo partir",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 226.6,
+      "end": 229.6,
+      "text": "ay de mi por tirar",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 229.6,
+      "end": 232.6,
+      "text": "a las once por fin",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 232.6,
+      "end": 235.6,
+      "text": "con sido el desgarón",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 235.6,
+      "end": 238.6,
+      "text": "pareces un jasmin",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 238.6,
+      "end": 241.6,
+      "text": "en vuelta en el vison",
+      "avg_logprob": -0.25858584424139747,
+      "no_speech_prob": 0.11204635351896286
+    },
+    {
+      "start": 241.6,
+      "end": 244.6,
+      "text": "tratamos de alcanzar",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 244.6,
+      "end": 247.6,
+      "text": "un acte de manon",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 247.6,
+      "end": 250.6,
+      "text": "tan justos que al llegar",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 250.6,
+      "end": 253.6,
+      "text": "termina la función",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 253.6,
+      "end": 256.6,
+      "text": "donde quieres cenar",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 256.6,
+      "end": 259.6,
+      "text": "muy triste te pedí",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 259.6,
+      "end": 262.6,
+      "text": "tardaste en contestar",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 262.6,
+      "end": 265.6,
+      "text": "diciendo luego así",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 265.6,
+      "end": 269.6,
+      "text": "prefiero caminar contigo",
+      "avg_logprob": -0.16050964454188943,
+      "no_speech_prob": 0.0031451734248548746
+    },
+    {
+      "start": 269.6,
+      "end": 272.6,
+      "text": "por paris",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 272.6,
+      "end": 275.6,
+      "text": "y luego regresar",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 275.6,
+      "end": 282.12,
+      "text": "para ser muy feliz",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 282.12,
+      "end": 288.13,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 288.13,
+      "end": 295.06,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 295.06,
+      "end": 308.46,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 308.46,
+      "end": 310.46,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 310.46,
+      "end": 312.46,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 312.46,
+      "end": 315.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 315.9,
+      "end": 317.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 317.9,
+      "end": 320.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.18161615093549094,
+      "no_speech_prob": 0.2000918686389923
+    },
+    {
+      "start": 320.9,
+      "end": 322.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 322.9,
+      "end": 324.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 324.9,
+      "end": 326.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 326.9,
+      "end": 328.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 328.9,
+      "end": 330.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 330.9,
+      "end": 332.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 332.9,
+      "end": 334.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 334.9,
+      "end": 336.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 336.9,
+      "end": 338.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 338.9,
+      "end": 340.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 340.9,
+      "end": 342.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 342.9,
+      "end": 344.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 344.9,
+      "end": 347.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.07482335035518933,
+      "no_speech_prob": 0.6933391690254211
+    },
+    {
+      "start": 347.9,
+      "end": 349.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 349.9,
+      "end": 351.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 351.9,
+      "end": 353.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 353.9,
+      "end": 355.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 355.9,
+      "end": 357.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 357.9,
+      "end": 359.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 359.9,
+      "end": 361.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 361.9,
+      "end": 363.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 363.9,
+      "end": 365.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 365.9,
+      "end": 367.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 367.9,
+      "end": 369.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 369.9,
+      "end": 371.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 371.9,
+      "end": 373.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 373.9,
+      "end": 375.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.05812623906880617,
+      "no_speech_prob": 0.623418390750885
+    },
+    {
+      "start": 375.9,
+      "end": 377.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 377.9,
+      "end": 379.9,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 379.9,
+      "end": 390.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 390.95,
+      "end": 392.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 392.95,
+      "end": 394.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 394.95,
+      "end": 396.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 396.95,
+      "end": 398.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 398.95,
+      "end": 400.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 400.95,
+      "end": 402.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 402.95,
+      "end": 404.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 404.95,
+      "end": 406.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 406.95,
+      "end": 408.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 408.95,
+      "end": 410.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 410.95,
+      "end": 412.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.0672274412959814,
+      "no_speech_prob": 0.7929093241691589
+    },
+    {
+      "start": 412.95,
+      "end": 414.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 414.95,
+      "end": 416.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 416.95,
+      "end": 418.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 418.95,
+      "end": 420.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 420.95,
+      "end": 422.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 422.95,
+      "end": 424.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 424.95,
+      "end": 426.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 426.95,
+      "end": 428.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 428.95,
+      "end": 430.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 430.95,
+      "end": 432.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 432.95,
+      "end": 434.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 434.95,
+      "end": 436.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 436.95,
+      "end": 438.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 438.95,
+      "end": 440.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03367418233305216,
+      "no_speech_prob": 0.8330244421958923
+    },
+    {
+      "start": 440.95,
+      "end": 442.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 442.95,
+      "end": 444.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 444.95,
+      "end": 446.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 446.95,
+      "end": 448.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 448.95,
+      "end": 450.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 450.95,
+      "end": 452.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 452.95,
+      "end": 454.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 454.95,
+      "end": 456.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 456.95,
+      "end": 458.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 458.95,
+      "end": 460.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 460.95,
+      "end": 462.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 462.95,
+      "end": 464.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 464.95,
+      "end": 466.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 466.95,
+      "end": 468.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.03802837517112494,
+      "no_speech_prob": 0.8286763429641724
+    },
+    {
+      "start": 468.95,
+      "end": 470.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 470.95,
+      "end": 472.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 472.95,
+      "end": 474.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 474.95,
+      "end": 476.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 476.95,
+      "end": 478.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 478.95,
+      "end": 480.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 480.95,
+      "end": 482.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 482.95,
+      "end": 484.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 484.95,
+      "end": 486.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 486.95,
+      "end": 488.95,
+      "text": "Buena aniversario",
+      "avg_logprob": -0.1187527325625221,
+      "no_speech_prob": 0.7829002141952515
+    },
+    {
+      "start": 488.95,
+      "end": 490.95,
+      "text": "Ma tête a fait",
+      "avg_logprob": -0.48377461092812674,
+      "no_speech_prob": 0.9278243184089661
+    },
+    {
+      "start": 661.77,
+      "end": 663.77,
+      "text": "A séquence",
+      "avg_logprob": -0.7934581339359283,
+      "no_speech_prob": 0.7879939079284668
+    },
+    {
+      "start": 819.58,
+      "end": 1273.13,
+      "text": "Of the Witch",
+      "avg_logprob": -0.7934581339359283,
+      "no_speech_prob": 0.7879939079284668
+    },
+    {
+      "start": 1293.14,
+      "end": 1297.14,
+      "text": "La musique de Fela, je vais la découvrir un peu plus tard.",
+      "avg_logprob": -0.17614113793454386,
+      "no_speech_prob": 0.38900986313819885
+    },
+    {
+      "start": 1297.14,
+      "end": 1299.14,
+      "text": "C'est Jean-François Biseau",
+      "avg_logprob": -0.17614113793454386,
+      "no_speech_prob": 0.38900986313819885
+    },
+    {
+      "start": 1299.14,
+      "end": 1302.14,
+      "text": "qui m'a fait écouter Fela pour la première fois.",
+      "avg_logprob": -0.17614113793454386,
+      "no_speech_prob": 0.38900986313819885
+    },
+    {
+      "start": 1302.14,
+      "end": 1306.14,
+      "text": "Jean-François, si jamais tu nous écoutes de là-haut, de tout là-haut,",
+      "avg_logprob": -0.17614113793454386,
+      "no_speech_prob": 0.38900986313819885
+    },
+    {
+      "start": 1306.14,
+      "end": 1316.46,
+      "text": "celle-là, elle est pour toi.",
+      "avg_logprob": -0.17614113793454386,
+      "no_speech_prob": 0.38900986313819885
+    },
+    {
+      "start": 1359.72,
+      "end": 1361.72,
+      "text": "Oh l'olopamie",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1362.72,
+      "end": 1364.72,
+      "text": "Puyo ché t'y warm",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1364.72,
+      "end": 1370.53,
+      "text": "T'y annez mon pain",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1370.53,
+      "end": 1770.26,
+      "text": "1969",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1770.26,
+      "end": 1772.26,
+      "text": "Deep Search",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1772.26,
+      "end": 1774.26,
+      "text": "Un jour je découvre sur une compilation obscure",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1774.26,
+      "end": 1777.26,
+      "text": "ce morceau de Dick Hyman sorti en 1969.",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1777.26,
+      "end": 1779.26,
+      "text": "Là, je pète les plombs,",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1779.26,
+      "end": 1781.26,
+      "text": "sachant que je joue à New York le week-end suivant,",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1781.26,
+      "end": 1783.26,
+      "text": "je me fais un édite",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1783.26,
+      "end": 1785.26,
+      "text": "et je décide de le jouer là-bas.",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1785.26,
+      "end": 1787.26,
+      "text": "Forcément, vu leur histoire avec la soul et la funk,",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1787.26,
+      "end": 1789.26,
+      "text": "ils vont adorer.",
+      "avg_logprob": -0.33833938685880194,
+      "no_speech_prob": 0.47853589057922363
+    },
+    {
+      "start": 1790.26,
+      "end": 1792.26,
+      "text": "Mais visiblement, c'était pas le bon soir,",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1792.26,
+      "end": 1795.26,
+      "text": "parce que j'ai carrément vider la piste.",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1795.26,
+      "end": 1807.06,
+      "text": "En 1970, Edwin Starr chante war.",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1808.06,
+      "end": 1811.06,
+      "text": "33 ans plus tard, je me retrouve à Manchester,",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1811.06,
+      "end": 1814.06,
+      "text": "la semaine où les États-Unis partent en guerre contre l'Irak.",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1815.06,
+      "end": 1817.06,
+      "text": "Je peux vous dire que quand j'ai joué ça,",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 1817.06,
+      "end": 1821.06,
+      "text": "le club a littéralement explosé.",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 2000.98,
+      "end": 2008.51,
+      "text": "1961",
+      "avg_logprob": -0.14232364887336516,
+      "no_speech_prob": 0.019185466691851616
+    },
+    {
+      "start": 2157.35,
+      "end": 2160.35,
+      "text": "Un morceau sorti en 1971,",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2160.35,
+      "end": 2163.35,
+      "text": "signé du Quatuor originaire des Bahamas,",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2163.35,
+      "end": 2166.35,
+      "text": "le groupe The Beginning of the End.",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2166.35,
+      "end": 2168.35,
+      "text": "Alors celui-ci, je l'ai entendu pour la première fois",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2168.35,
+      "end": 2169.35,
+      "text": "dans une warehouse partie",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2169.35,
+      "end": 2172.35,
+      "text": "quand j'habitais à Londres dans les années 80.",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2172.35,
+      "end": 2175.35,
+      "text": "Là, il y a une sorte de feu d'artifice dans ma tête.",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2175.35,
+      "end": 2177.35,
+      "text": "Et je crois qu'à ce moment-là,",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2177.35,
+      "end": 2182.43,
+      "text": "j'ai tout donné sur le dance floor.",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2182.43,
+      "end": 2185.43,
+      "text": "On continue avec un autre disque sorti en 1971.",
+      "avg_logprob": -0.15254002182107224,
+      "no_speech_prob": 0.026209218427538872
+    },
+    {
+      "start": 2185.43,
+      "end": 2187.43,
+      "text": "Ça, c'est un disque particulier",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2187.43,
+      "end": 2189.43,
+      "text": "parce que celui-ci, je l'ai joué à mon tout premier gig",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2189.43,
+      "end": 2191.43,
+      "text": "quand j'avais 14 ans.",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2191.43,
+      "end": 2193.43,
+      "text": "En fait, ma grand-mère avait une auberge",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2193.43,
+      "end": 2195.43,
+      "text": "et la veille de Nouvelle-Anne se fait planter",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2195.43,
+      "end": 2198.43,
+      "text": "par le DJ qui devait jouer le 31 décembre.",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2198.43,
+      "end": 2199.43,
+      "text": "Donc elle m'appelle.",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2199.43,
+      "end": 2200.43,
+      "text": "Elle me dit, arrête pas de nous bassiner,",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2200.43,
+      "end": 2202.43,
+      "text": "de nous dire que tu veux jouer des disques.",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2202.43,
+      "end": 2205.43,
+      "text": "Et donc mon premier gig, c'était à l'auberge de ma grand-mère,",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2205.43,
+      "end": 2206.43,
+      "text": "un soir de Nouvelle-Anne",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2206.43,
+      "end": 2209.43,
+      "text": "et vu que je parlais à un public de 7 à 77 ans,",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2209.43,
+      "end": 2211.43,
+      "text": "j'ai joué ce disque-là.",
+      "avg_logprob": -0.1120439719488012,
+      "no_speech_prob": 0.019822249189019203
+    },
+    {
+      "start": 2211.43,
+      "end": 2539.37,
+      "text": "...",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2539.37,
+      "end": 2703.9,
+      "text": "Il me paraît important de vous préciser",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2703.9,
+      "end": 2705.9,
+      "text": "à ce stade que le morceau de Michel Fuguin,",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2705.9,
+      "end": 2706.9,
+      "text": "fait comme l'oiseau,",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2706.9,
+      "end": 2710.9,
+      "text": "est un énorme Guilty Pleasure pour moi.",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2710.9,
+      "end": 2712.9,
+      "text": "Ça, je peux pas le cacher,",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2712.9,
+      "end": 2715.9,
+      "text": "c'est forcément dû à la nostalgie de ma petite enfance.",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2715.9,
+      "end": 2716.9,
+      "text": "Quand j'étais en CM1,",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2716.9,
+      "end": 2717.9,
+      "text": "mon frère organisait des spectacles",
+      "avg_logprob": -0.15596358650005782,
+      "no_speech_prob": 0.012310191057622433
+    },
+    {
+      "start": 2717.9,
+      "end": 2719.9,
+      "text": "dans la salle des fêtes de la ville",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2719.9,
+      "end": 2721.9,
+      "text": "où j'habitais, à Boujival.",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2721.9,
+      "end": 2723.9,
+      "text": "Nos différents numéros passaient de Sylvie Vartan",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2723.9,
+      "end": 2725.9,
+      "text": "à Jean-Yann, à Liza Minelli",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2725.9,
+      "end": 2727.9,
+      "text": "ou encore à Nicordi.",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2727.9,
+      "end": 2728.9,
+      "text": "Et le grand final,",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2728.9,
+      "end": 2730.9,
+      "text": "était sur cette chanson de Fuguin",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2730.9,
+      "end": 2732.9,
+      "text": "où, entouré de nos potes de classe,",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2732.9,
+      "end": 2735.9,
+      "text": "on implorait le public de faire comme des oiseaux.",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2735.9,
+      "end": 2737.9,
+      "text": "...",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2737.9,
+      "end": 2738.9,
+      "text": "Le titre de Frankie Valic,",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2738.9,
+      "end": 2740.9,
+      "text": "nous sommes en train d'écouter.",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2740.9,
+      "end": 2742.9,
+      "text": "Celui-ci, je l'ai découvert",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2742.9,
+      "end": 2743.9,
+      "text": "sur la piste de la Sienda,",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2743.9,
+      "end": 2744.9,
+      "text": "à Manchester,",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2744.9,
+      "end": 2746.9,
+      "text": "un soir où jouait DJ Dean.",
+      "avg_logprob": -0.18490750808268785,
+      "no_speech_prob": 0.08203145116567612
+    },
+    {
+      "start": 2746.9,
+      "end": 2748.9,
+      "text": "DJ spécialisé dans la musique",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2748.9,
+      "end": 2750.9,
+      "text": "dit Northern Soul.",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2750.9,
+      "end": 2752.9,
+      "text": "A l'époque, je connaissais pas encore bien",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2752.9,
+      "end": 2754.9,
+      "text": "tout le mouvement et l'histoire de cette musique-là.",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2754.9,
+      "end": 2756.9,
+      "text": "Mais souvent, je dis qu'il y a toujours une clé",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2756.9,
+      "end": 2757.9,
+      "text": "pour ouvrir une porte",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2757.9,
+      "end": 2759.9,
+      "text": "et nous permettre de rentrer",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2759.9,
+      "end": 2760.9,
+      "text": "dans un nouvel univers.",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2760.9,
+      "end": 2762.9,
+      "text": "Et c'est précisément ce morceau-là",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2762.9,
+      "end": 2763.9,
+      "text": "qui m'a fait basculer",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2763.9,
+      "end": 2765.9,
+      "text": "dans la galaxie vibrante",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2765.9,
+      "end": 2767.9,
+      "text": "de la Northern Soul.",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2767.9,
+      "end": 2773.26,
+      "text": "Un jour, je jouais sur une plage",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2773.26,
+      "end": 2774.26,
+      "text": "dans le sud de la France",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2774.26,
+      "end": 2776.26,
+      "text": "et là, sur le dancefloor face à moi,",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2776.26,
+      "end": 2778.26,
+      "text": "je croisais le regard d'une amie",
+      "avg_logprob": -0.09783965666618573,
+      "no_speech_prob": 0.026169978082180023
+    },
+    {
+      "start": 2778.26,
+      "end": 2780.26,
+      "text": "très très proche",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2780.26,
+      "end": 2782.26,
+      "text": "de notre très regretté Rémi Colpacopoulas.",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2782.26,
+      "end": 2784.26,
+      "text": "Elle, je l'avais parvue",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2784.26,
+      "end": 2786.26,
+      "text": "depuis le départ de Rémi",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2786.26,
+      "end": 2788.26,
+      "text": "et à ce moment, j'ai eu envie de lui dire",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2788.26,
+      "end": 2790.26,
+      "text": "combien il nous manquait à nous tous aussi.",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2790.26,
+      "end": 2792.26,
+      "text": "Alors, j'ai décidé de jouer",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2792.26,
+      "end": 2794.26,
+      "text": "ce morceau brésilien de 1973",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2794.26,
+      "end": 2796.26,
+      "text": "et vu le sourire qui s'est dessiné",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2796.26,
+      "end": 2797.26,
+      "text": "sur son visage,",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2797.26,
+      "end": 2799.26,
+      "text": "je pense qu'elle a capté le message",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2799.26,
+      "end": 2801.26,
+      "text": "5 sur 5.",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2902.24,
+      "end": 2905.94,
+      "text": "Au début des années 90,",
+      "avg_logprob": -0.11606436603135996,
+      "no_speech_prob": 0.05081189051270485
+    },
+    {
+      "start": 2905.94,
+      "end": 2907.94,
+      "text": "on parlait du jazz café.",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2907.94,
+      "end": 2909.94,
+      "text": "Apparemment, là-bas, les meilleurs artistes",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2909.94,
+      "end": 2911.94,
+      "text": "et meilleurs DJs, les meilleurs live",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2911.94,
+      "end": 2913.94,
+      "text": "de la scène jazz funk londonienne",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2913.94,
+      "end": 2914.94,
+      "text": "s'y produisent.",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2914.94,
+      "end": 2915.94,
+      "text": "Un soir, je vais écouter",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2915.94,
+      "end": 2916.94,
+      "text": "un certain Gilles Peterson",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2916.94,
+      "end": 2917.94,
+      "text": "qui, voyant bien que la piste",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2917.94,
+      "end": 2919.94,
+      "text": "était en train de monter en pression,",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2919.94,
+      "end": 2921.94,
+      "text": "dégaine un morceau de 1973",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 2921.94,
+      "end": 3189.89,
+      "text": "où là, mon coeur fait...",
+      "avg_logprob": -0.15849169086793374,
+      "no_speech_prob": 0.16148802638053894
+    },
+    {
+      "start": 3189.89,
+      "end": 3316.34,
+      "text": "Gipsurge.",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3316.34,
+      "end": 3318.34,
+      "text": "Quel merveille,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3318.34,
+      "end": 3320.34,
+      "text": "mais quel merveille ce morceau-là.",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3320.34,
+      "end": 3326.07,
+      "text": "Pour moi, ce titre,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3326.07,
+      "end": 3328.07,
+      "text": "c'est le souvenir de mon premier set",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3328.07,
+      "end": 3385.46,
+      "text": "au festival Black and Bass",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3385.46,
+      "end": 3387.46,
+      "text": "qu'en 2011 à Bayonne.",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3387.46,
+      "end": 3388.46,
+      "text": "C'était ma toute première fois",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3388.46,
+      "end": 3389.46,
+      "text": "où je jouais pour Moustique,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3389.46,
+      "end": 3390.46,
+      "text": "qui organisait ce festival",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3390.46,
+      "end": 3391.46,
+      "text": "et comme j'ai joué ce titre",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3391.46,
+      "end": 3393.46,
+      "text": "ce soir-là,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3393.46,
+      "end": 3394.46,
+      "text": "m'intéressant,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3394.46,
+      "end": 3395.46,
+      "text": "j'en avais pas le temps",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3395.46,
+      "end": 3396.46,
+      "text": "d'en parler,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3396.46,
+      "end": 3397.46,
+      "text": "mais j'en avais le temps",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3397.46,
+      "end": 3398.46,
+      "text": "d'en parler,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3398.46,
+      "end": 3399.46,
+      "text": "j'en avais le temps",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3399.46,
+      "end": 3400.46,
+      "text": "d'en parler,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3400.46,
+      "end": 3401.46,
+      "text": "j'en avais le temps",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3401.46,
+      "end": 3402.46,
+      "text": "d'en parler,",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3402.46,
+      "end": 3403.46,
+      "text": "j'en avais le temps",
+      "avg_logprob": -0.3438821324368113,
+      "no_speech_prob": 0.027432121336460114
+    },
+    {
+      "start": 3403.46,
+      "end": 3404.46,
+      "text": "d'en parler,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3404.46,
+      "end": 3405.46,
+      "text": "maintenant quand je l'écoute,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3405.46,
+      "end": 3406.46,
+      "text": "il symbolise",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3406.46,
+      "end": 3408.46,
+      "text": "le départ d'une très belle",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3408.46,
+      "end": 3410.46,
+      "text": "et longue amitié.",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3410.46,
+      "end": 3412.46,
+      "text": "Donc petit big up à toi,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3412.46,
+      "end": 3413.46,
+      "text": "M. Moustique.",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3413.46,
+      "end": 3416.64,
+      "text": "En restant sur le thème",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3416.64,
+      "end": 3417.64,
+      "text": "des toutes premières fois,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3417.64,
+      "end": 3418.64,
+      "text": "j'ai organisé",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3418.64,
+      "end": 3419.64,
+      "text": "ma toute première boum",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3419.64,
+      "end": 3421.64,
+      "text": "quand j'étais en CM2.",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3421.64,
+      "end": 3422.64,
+      "text": "Ce jour-là,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3422.64,
+      "end": 3423.64,
+      "text": "sachant que j'aimais",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3423.64,
+      "end": 3424.64,
+      "text": "déjà bien la musique,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3424.64,
+      "end": 3425.64,
+      "text": "mon pote Samir m'offre",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3425.64,
+      "end": 3426.64,
+      "text": "un album de la cordéoniste",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3426.64,
+      "end": 3427.64,
+      "text": "Louis Corshia.",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3427.64,
+      "end": 3428.64,
+      "text": "Dis que j'ai d'ailleurs",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3428.64,
+      "end": 3429.64,
+      "text": "toujours gardé",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3429.64,
+      "end": 3430.64,
+      "text": "précieusement",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3430.64,
+      "end": 3431.64,
+      "text": "dans ma collection.",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3431.64,
+      "end": 3432.64,
+      "text": "Et quand il me l'offre,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3432.64,
+      "end": 3433.64,
+      "text": "il me dit,",
+      "avg_logprob": -0.1135673004865032,
+      "no_speech_prob": 0.17397266626358032
+    },
+    {
+      "start": 3433.64,
+      "end": 3434.64,
+      "text": "je suis pas sûr",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3434.64,
+      "end": 3435.64,
+      "text": "que tu vas aimer ça.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3435.64,
+      "end": 3436.64,
+      "text": "Je pense qu'il me connaissait",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3436.64,
+      "end": 3437.64,
+      "text": "un petit peu.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3437.64,
+      "end": 3438.64,
+      "text": "Moi, à l'époque,",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3438.64,
+      "end": 3439.64,
+      "text": "j'étais obsédé",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3439.64,
+      "end": 3440.64,
+      "text": "par un disque",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3440.64,
+      "end": 3441.64,
+      "text": "que mon frère",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3441.64,
+      "end": 3442.64,
+      "text": "écoutait tout le temps",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3442.64,
+      "end": 3443.64,
+      "text": "dans sa chambre.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3443.64,
+      "end": 3444.64,
+      "text": "Ça me donnait vraiment",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3444.64,
+      "end": 3445.64,
+      "text": "envie de danser",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3445.64,
+      "end": 3446.64,
+      "text": "et en effet,",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3446.64,
+      "end": 3585.02,
+      "text": "il n'y avait pas beaucoup",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3585.02,
+      "end": 3586.02,
+      "text": "d'accordéons.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3586.02,
+      "end": 3627.66,
+      "text": "1975.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3627.66,
+      "end": 3798.67,
+      "text": "C'est pas merveilleux,",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3798.67,
+      "end": 3944.73,
+      "text": "ce morceau.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3944.73,
+      "end": 3945.73,
+      "text": "Turn off the lights.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3945.73,
+      "end": 3946.73,
+      "text": "Ça, c'est...",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3946.73,
+      "end": 3947.73,
+      "text": "Turn off the lights.",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3947.73,
+      "end": 3948.73,
+      "text": "Ça, c'est un morceau",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3948.73,
+      "end": 3949.73,
+      "text": "qui fait pour moi",
+      "avg_logprob": -0.14642598742449825,
+      "no_speech_prob": 0.04013129323720932
+    },
+    {
+      "start": 3949.73,
+      "end": 3950.73,
+      "text": "éteint les lumières",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3950.73,
+      "end": 3951.73,
+      "text": "et met la boule à facette",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3951.73,
+      "end": 3952.73,
+      "text": "ou met le strobe.",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3952.73,
+      "end": 3953.73,
+      "text": "Voilà.",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3953.73,
+      "end": 3955.73,
+      "text": "En novembre 2011,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3955.73,
+      "end": 3956.73,
+      "text": "je partage",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3956.73,
+      "end": 3957.73,
+      "text": "les platines",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3957.73,
+      "end": 3958.73,
+      "text": "du Rex Club",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3958.73,
+      "end": 3959.73,
+      "text": "avec Akenaton.",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3963.17,
+      "end": 3964.17,
+      "text": "On s'était rencontrés",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3964.17,
+      "end": 3965.17,
+      "text": "quelques années plus tôt",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3965.17,
+      "end": 3966.17,
+      "text": "et on parlait",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3966.17,
+      "end": 3967.17,
+      "text": "de funk,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3967.17,
+      "end": 3968.17,
+      "text": "de soul,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3968.17,
+      "end": 3969.17,
+      "text": "de hip hop ensemble",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3969.17,
+      "end": 3970.17,
+      "text": "et on s'est dit,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3970.17,
+      "end": 3971.17,
+      "text": "tiens,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3971.17,
+      "end": 3972.17,
+      "text": "un jour,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3972.17,
+      "end": 3973.17,
+      "text": "ça serait cool",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3973.17,
+      "end": 3974.17,
+      "text": "qu'on aille jouer",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3974.17,
+      "end": 3975.17,
+      "text": "des disques.",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3975.17,
+      "end": 3976.17,
+      "text": "Et bien,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3976.17,
+      "end": 3977.17,
+      "text": "ce soir,",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3977.17,
+      "end": 3978.17,
+      "text": "c'est un morceau",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3978.17,
+      "end": 3979.17,
+      "text": "qui fait pour moi",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3979.17,
+      "end": 3980.17,
+      "text": "éteint les lumières",
+      "avg_logprob": -0.1781660544941997,
+      "no_speech_prob": 0.28003624081611633
+    },
+    {
+      "start": 3980.17,
+      "end": 3981.17,
+      "text": "et bien,",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 3981.17,
+      "end": 3982.17,
+      "text": "ce soir-là,",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 3982.17,
+      "end": 3984.17,
+      "text": "j'ai joué Turn off the lights.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 3984.17,
+      "end": 3986.17,
+      "text": "Je me rappelle très bien.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 3986.17,
+      "end": 3988.17,
+      "text": "J'ai l'enregistrement.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 3988.17,
+      "end": 4000.38,
+      "text": "1976.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4001.38,
+      "end": 4002.38,
+      "text": "On passe sur un track",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4002.38,
+      "end": 4003.38,
+      "text": "qui me rappelle",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4003.38,
+      "end": 4004.38,
+      "text": "la première fois",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4004.38,
+      "end": 4005.38,
+      "text": "où j'ai joué un set",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4005.38,
+      "end": 4007.38,
+      "text": "100% dub.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4007.38,
+      "end": 4008.38,
+      "text": "C'était au bateau phare",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4008.38,
+      "end": 4009.38,
+      "text": "à Paris",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4009.38,
+      "end": 4010.38,
+      "text": "et je me souviens",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4010.38,
+      "end": 4011.38,
+      "text": "très bien",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4011.38,
+      "end": 4012.38,
+      "text": "avoir ouvert mon set",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4012.38,
+      "end": 4013.38,
+      "text": "avec ce morceau",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4013.38,
+      "end": 4046.5,
+      "text": "des Upsetters.",
+      "avg_logprob": -0.1329381661489606,
+      "no_speech_prob": 0.002248982433229685
+    },
+    {
+      "start": 4059.42,
+      "end": 4062.42,
+      "text": "Sous-titres réalisés par la communauté Amara.org",
+      "avg_logprob": -0.6776804643518785,
+      "no_speech_prob": 0.9881479144096375
+    }
+  ]
+}

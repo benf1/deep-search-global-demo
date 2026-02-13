@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Deep Search Global Samples</title>
+    <style>
+      :root {
+        --bg: #06070f;
+        --panel: #0d1122;
+        --line: #2b3557;
+        --ink: #f5f2ff;
+        --muted: #d2cee6;
+        --fip: #f10080;
+        --hero1: #0f1225;
+        --hero2: #292d4c;
+        --hero3: #11162d;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: radial-gradient(1100px 540px at 50% -220px, #2a2f57 0%, var(--bg) 70%);
+        color: var(--ink);
+        font-family: "Avenir Next", "Century Gothic", "Helvetica Neue", Helvetica, sans-serif;
+      }
+      .wrap { width: min(920px, 92vw); margin: 0 auto; padding: 24px 0 44px; }
+      .hero {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid #353d61;
+        border-radius: 12px;
+        background:
+          radial-gradient(1200px 560px at 50% 14%, #464b78 0%, transparent 58%),
+          linear-gradient(170deg, var(--hero2) 0%, var(--hero1) 55%, var(--hero3) 100%);
+        display: grid;
+        grid-template-columns: 1fr 240px;
+        gap: 28px;
+        padding: clamp(22px, 3.6vw, 42px);
+        align-items: center;
+      }
+      .hero::before,
+      .hero::after {
+        content: "";
+        position: absolute;
+        background: rgba(122, 12, 95, 0.42);
+        transform-origin: center bottom;
+        z-index: 0;
+      }
+      .hero::before {
+        width: 160%;
+        height: 120px;
+        left: -24%;
+        bottom: 30%;
+        transform: rotate(-28deg);
+      }
+      .hero::after {
+        width: 135%;
+        height: 110px;
+        right: -40%;
+        bottom: 8%;
+        transform: rotate(9deg);
+      }
+      .hero-copy { position: relative; z-index: 1; }
+      .hero-audio {
+        margin-top: 16px;
+        padding: 10px;
+        border: 1px solid #4a547f;
+        border-radius: 12px;
+        background: #0a0f24b8;
+      }
+      .hero-audio .kicker { margin-bottom: 4px; }
+      .hero-audio .title { margin-bottom: 4px; }
+      .hero-audio .meta { margin-bottom: 8px; font-size: 0.85rem; }
+      .hero-cover {
+        position: relative;
+        z-index: 1;
+        justify-self: end;
+      }
+      .hero-cover img {
+        width: min(240px, 36vw);
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        border-radius: 8px;
+        box-shadow: 0 12px 34px rgba(0, 0, 0, 0.35);
+      }
+      .badge {
+        display: inline-block;
+        background: #ffffff17;
+        border: 1px solid #ffffff33;
+        color: #fff;
+        font-weight: 800;
+        font-size: 0.72rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        padding: 3px 8px;
+        margin-bottom: 12px;
+        border-radius: 999px;
+      }
+      h1 {
+        margin: 0 0 10px;
+        font-size: clamp(1.35rem, 3.4vw, 2.75rem);
+        line-height: 1.06;
+        letter-spacing: -0.02em;
+      }
+      .lead {
+        margin: 0;
+        max-width: 620px;
+        color: var(--muted);
+        font-size: clamp(0.93rem, 1.7vw, 1.2rem);
+      }
+      .section {
+        margin-top: 14px;
+        border: 1px solid #3a4266;
+        border-radius: 16px;
+        background:
+          linear-gradient(165deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.01)),
+          linear-gradient(180deg, #0d1225, #090d1d);
+        box-shadow: 0 14px 40px rgba(0, 0, 0, 0.24);
+        padding: 14px;
+        opacity: 1;
+        transform: translateY(0);
+      }
+      .section h2 {
+        margin: 0 0 10px;
+        font-size: 1.05rem;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 10px;
+      }
+      .card {
+        position: relative;
+        border: 1px solid #414d78;
+        border-radius: 14px;
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.035) 0%, rgba(255, 255, 255, 0.005) 100%),
+          linear-gradient(180deg, #0b1020 0%, #070b17 100%);
+        padding: 12px;
+        transition:
+          transform 220ms cubic-bezier(0.2, 0.8, 0.2, 1),
+          box-shadow 220ms cubic-bezier(0.2, 0.8, 0.2, 1),
+          border-color 220ms ease;
+        opacity: 1;
+        transform: translateY(0);
+      }
+      .card:hover {
+        transform: translateY(-4px);
+        border-color: #5967a5;
+        box-shadow: 0 14px 32px rgba(0, 0, 0, 0.42);
+      }
+      .card:focus-within {
+        border-color: #f10080;
+        box-shadow:
+          0 0 0 1px rgba(241, 0, 128, 0.45) inset,
+          0 0 28px rgba(241, 0, 128, 0.18);
+        opacity: 1;
+        transform: translateY(0);
+        animation: activePulse 2.2s ease-in-out infinite;
+      }
+      .kicker {
+        margin: 0 0 5px;
+        color: var(--fip);
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-size: 0.72rem;
+        font-weight: 700;
+      }
+      .title { margin: 0 0 2px; font-size: 1.01rem; }
+      .meta { margin: 0 0 9px; color: var(--muted); font-size: 0.9rem; }
+      .waveform {
+        height: 34px;
+        border-radius: 8px;
+        margin: 10px 0 10px;
+        background:
+          repeating-linear-gradient(
+            90deg,
+            #ffffff08 0 2px,
+            #00000000 2px 5px
+          ),
+          linear-gradient(180deg, #131932, #0c1022);
+        border: 1px solid #3a456e;
+        position: relative;
+        overflow: hidden;
+      }
+      .waveform::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(90deg, #f1008033 0%, #ffffff00 55%, #f100801f 100%);
+        transform: translateX(-100%);
+        transition: transform 400ms ease;
+      }
+      .card:hover .waveform::after,
+      .card:focus-within .waveform::after {
+        transform: translateX(0);
+      }
+      .actions {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 10px;
+      }
+      .btn {
+        appearance: none;
+        border: 1px solid #4b5685;
+        background: #121936;
+        color: #efe9ff;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+        padding: 5px 10px;
+        border-radius: 999px;
+        cursor: pointer;
+        font-size: 0.78rem;
+      }
+      .btn:hover {
+        border-color: #f10080;
+        color: #fff;
+      }
+      .btn:focus-visible {
+        outline: 2px solid #f10080;
+        outline-offset: 1px;
+      }
+      audio { width: 100%; }
+
+      @keyframes activePulse {
+        0%, 100% { box-shadow: 0 0 0 1px rgba(241, 0, 128, 0.45) inset, 0 0 22px rgba(241, 0, 128, 0.14); }
+        50% { box-shadow: 0 0 0 1px rgba(241, 0, 128, 0.62) inset, 0 0 34px rgba(241, 0, 128, 0.24); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .section,
+        .card { transition: none; }
+        .card:hover,
+        .card:focus-within {
+          transform: none;
+          box-shadow: none;
+        }
+      }
+      @media (max-width: 640px) {
+        .hero { grid-template-columns: 1fr; gap: 16px; }
+        .hero-cover { justify-self: start; }
+        .hero-cover img { width: min(240px, 64vw); }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="hero">
+        <div class="hero-copy">
+          <div class="badge">FIP Deep Search</div>
+          <h1>[DEEP]Search by Laurent Garnier</h1>
+          <p class="lead">Spreading the love globally. Hear Deep Search in English and Spanish.</p>
+          <div class="hero-audio">
+            <p class="kicker">Original Voice</p>
+            <h3 class="title">Laurent in French</h3>
+            <p class="meta">The untouched segment from the original broadcast.</p>
+            <audio controls preload="metadata" src="./assets/original-fr.mp3"></audio>
+          </div>
+        </div>
+        <div class="hero-cover">
+          <img src="https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/09/a27dcc74-751d-4074-ad04-a19e7f302058/400x400_sc_carre-deepsearch.jpg" alt="[DEEP]Search cover" />
+        </div>
+      </header>
+
+      <section class="section">
+        <h2>DEEP SEARCH IN ENGLISH</h2>
+        <div class="grid">
+          <article class="card">
+            <p class="kicker">English</p>
+            <h3 class="title">Clone 1</h3>
+            <p class="meta">Main English version with the original show energy.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/english-mix.mp3"></audio>
+          </article>
+
+          <article class="card">
+            <p class="kicker">English</p>
+            <h3 class="title">Clone 2</h3>
+            <p class="meta">Warm and expressive take over the original music bed.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/english-clone-xtts-full-mix.mp3"></audio>
+          </article>
+
+          <article class="card">
+            <p class="kicker">English</p>
+            <h3 class="title">Clone 3</h3>
+            <p class="meta">Faster and more energetic variation.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/ab/variant_a.mix.1p4x.mp3"></audio>
+          </article>
+
+          <article class="card">
+            <p class="kicker">English</p>
+            <h3 class="title">Clone 4</h3>
+            <p class="meta">Balanced variation with smooth pacing.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/ab/variant_b.mix.mp3"></audio>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>DEEP SEARCH IN SPANISH</h2>
+        <div class="grid">
+          <article class="card">
+            <p class="kicker">Spanish</p>
+            <h3 class="title">Clone 1</h3>
+            <p class="meta">Spanish version tuned for Spain.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/spanish-es-es-mix.mp3"></audio>
+          </article>
+
+          <article class="card">
+            <p class="kicker">Spanish</p>
+            <h3 class="title">Clone 2</h3>
+            <p class="meta">Spanish version tuned for Mexico.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/spanish-es-mx-mix.mp3"></audio>
+          </article>
+
+          <article class="card">
+            <p class="kicker">Spanish</p>
+            <h3 class="title">Clone 3</h3>
+            <p class="meta">Spanish version tuned for Argentina.</p>
+            <div class="waveform" aria-hidden="true"></div>
+            <div class="actions">
+              <button class="btn" data-action="play">Play</button>
+              <button class="btn" data-action="jump">Jump to highlight</button>
+            </div>
+            <audio controls preload="metadata" src="./assets/spanish-es-ar-mix.mp3"></audio>
+          </article>
+        </div>
+      </section>
+    </main>
+    <script>
+      const HIGHLIGHT_TIME = 42;
+      const cards = document.querySelectorAll(".card");
+
+      cards.forEach((card) => {
+        const audio = card.querySelector("audio");
+        const playBtn = card.querySelector("[data-action='play']");
+        const jumpBtn = card.querySelector("[data-action='jump']");
+        if (!audio || !playBtn || !jumpBtn) return;
+
+        playBtn.addEventListener("click", () => {
+          if (audio.paused) {
+            audio.play();
+            playBtn.textContent = "Pause";
+          } else {
+            audio.pause();
+            playBtn.textContent = "Play";
+          }
+        });
+
+        audio.addEventListener("pause", () => {
+          playBtn.textContent = "Play";
+        });
+        audio.addEventListener("play", () => {
+          playBtn.textContent = "Pause";
+        });
+
+        jumpBtn.addEventListener("click", () => {
+          audio.currentTime = Math.min(HIGHLIGHT_TIME, Math.max(0, audio.duration || HIGHLIGHT_TIME));
+          audio.play();
+        });
+      });
+    </script>
+  </body>
+</html>

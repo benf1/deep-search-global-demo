@@ -1,0 +1,17 @@
+.DS_Store
+.cache/
+.venv/
+.venv-xtts/
+__pycache__/
+*.pyc
+.elevenlabs_voice_id*
+
+# Keep repo code-first; audio work artifacts stay local
+audio/*
+!audio/ab/
+audio/ab/*
+!audio/ab/*.json
+
+# Local scratch exports
+audio/processed/*.aiff
+audio/processed/*.wav

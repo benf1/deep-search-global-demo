@@ -1,0 +1,182 @@
+{
+  "detected_language": "fr",
+  "language_probability": 1,
+  "duration": 165.041625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.76,
+      "text": "Bonsoir et bienvenue sur Deepsearch, Charles Aznavour qui chante « Bon anniversaire ».",
+      "avg_logprob": -0.27354507334530354,
+      "no_speech_prob": 0.13761727511882782
+    },
+    {
+      "start": 11.76,
+      "end": 17.76,
+      "text": "Je me demande bien pourquoi j'ai décidé d'ouvrir l'émission avec ça.",
+      "avg_logprob": -0.27354507334530354,
+      "no_speech_prob": 0.13761727511882782
+    },
+    {
+      "start": 17.76,
+      "end": 23.28,
+      "text": "Bon, je pense qu'il y en a déjà pas mal qu'ils le savent, mais ce soir, à minuit",
+      "avg_logprob": -0.27354507334530354,
+      "no_speech_prob": 0.13761727511882782
+    },
+    {
+      "start": 23.28,
+      "end": 30.32,
+      "text": "exactement, on passe au 1er février et moi là je passe de l'autre côté de la",
+      "avg_logprob": -0.20432457777446714,
+      "no_speech_prob": 0.5614327192306519
+    },
+    {
+      "start": 30.32,
+      "end": 36.36,
+      "text": "montagne. Je prends 60 ans. Ouais, c'est le Big Six O, le genre de",
+      "avg_logprob": -0.20432457777446714,
+      "no_speech_prob": 0.5614327192306519
+    },
+    {
+      "start": 36.36,
+      "end": 43.28,
+      "text": "truc qui pique un peu les yeux quand même. Donc ce soir, émission un petit peu",
+      "avg_logprob": -0.20432457777446714,
+      "no_speech_prob": 0.5614327192306519
+    },
+    {
+      "start": 43.28,
+      "end": 48.48,
+      "text": "spéciale là. Voilà pourquoi nous avons décalé l'émission à cette nuit,",
+      "avg_logprob": -0.20432457777446714,
+      "no_speech_prob": 0.5614327192306519
+    },
+    {
+      "start": 48.48,
+      "end": 52.28,
+      "text": "parce que vu que c'est mon anniversaire, et pas des moindres d'ailleurs,",
+      "avg_logprob": -0.20432457777446714,
+      "no_speech_prob": 0.5614327192306519
+    },
+    {
+      "start": 52.28,
+      "end": 57.44,
+      "text": "fallait bien que je marque le coup en vous proposant une émission différente.",
+      "avg_logprob": -0.227643235879285,
+      "no_speech_prob": 0.013750791549682617
+    },
+    {
+      "start": 57.44,
+      "end": 68.6,
+      "text": "En 1966, Johnny chante « Noir c'est noir ». Hendrix chante « Hey Joe ». Nancy Sinatra",
+      "avg_logprob": -0.227643235879285,
+      "no_speech_prob": 0.013750791549682617
+    },
+    {
+      "start": 68.6,
+      "end": 84.66,
+      "text": "chante « Bang Bang ». Et Carla Thomas chante ça. Carla Thomas chante « Baby ».",
+      "avg_logprob": -0.227643235879285,
+      "no_speech_prob": 0.013750791549682617
+    },
+    {
+      "start": 85.66,
+      "end": 91.62,
+      "text": "Moi j'arrive en 1966. Donc ouvrir avec un morceau de 66,",
+      "avg_logprob": -0.2357502811095294,
+      "no_speech_prob": 0.025476772338151932
+    },
+    {
+      "start": 91.62,
+      "end": 100.02,
+      "text": "qui s'appelle « Baby », ça a du sens. Ce soir, nous allons écouter beaucoup, beaucoup,",
+      "avg_logprob": -0.2357502811095294,
+      "no_speech_prob": 0.025476772338151932
+    },
+    {
+      "start": 100.02,
+      "end": 103.86,
+      "text": "mais alors vraiment beaucoup de musique. Vu la police que je vous ai préparé,",
+      "avg_logprob": -0.2357502811095294,
+      "no_speech_prob": 0.025476772338151932
+    },
+    {
+      "start": 103.86,
+      "end": 109.38,
+      "text": "nous allons passer toute la nuit ensemble. Ouais, vous m'avez bien entendu,",
+      "avg_logprob": -0.2357502811095294,
+      "no_speech_prob": 0.025476772338151932
+    },
+    {
+      "start": 109.42,
+      "end": 116.1,
+      "text": "je vais vous jouer de la musique jusqu'au petit matin. En fait, nous allons remonter le",
+      "avg_logprob": -0.14944149267793905,
+      "no_speech_prob": 0.05330919474363327
+    },
+    {
+      "start": 116.1,
+      "end": 125.62,
+      "text": "temps musicalement de 1966 à 2026. Les morceaux que j'ai sélectionnés résonnent tous particulièrement",
+      "avg_logprob": -0.14944149267793905,
+      "no_speech_prob": 0.05330919474363327
+    },
+    {
+      "start": 125.62,
+      "end": 129.9,
+      "text": "pour moi. On ne sait jamais trop pourquoi un titre va nous marquer plus qu'un autre,",
+      "avg_logprob": -0.14944149267793905,
+      "no_speech_prob": 0.05330919474363327
+    },
+    {
+      "start": 129.9,
+      "end": 134.74,
+      "text": "mais ce soir, je vais profiter de vous jouer uniquement des morceaux qui me font",
+      "avg_logprob": -0.14944149267793905,
+      "no_speech_prob": 0.05330919474363327
+    },
+    {
+      "start": 134.86,
+      "end": 140.38,
+      "text": "surkiffer. Et comme la musique a ce pouvoir de convoquer les souvenirs d'un moment,",
+      "avg_logprob": -0.13755076800205912,
+      "no_speech_prob": 0.26235657930374146
+    },
+    {
+      "start": 140.38,
+      "end": 145.62,
+      "text": "d'un lieu ou d'une personne, ce soir je vais vous jouer de la musique toute la nuit et vous",
+      "avg_logprob": -0.13755076800205912,
+      "no_speech_prob": 0.26235657930374146
+    },
+    {
+      "start": 145.62,
+      "end": 151.46,
+      "text": "raconter des histoires. La magie des morceaux qui nous touchent nous permet d'imprimer à jamais",
+      "avg_logprob": -0.13755076800205912,
+      "no_speech_prob": 0.26235657930374146
+    },
+    {
+      "start": 151.46,
+      "end": 157.06,
+      "text": "nos aventures. Et forcément, vu mon parcours, beaucoup de mes souvenirs sont liés avec un",
+      "avg_logprob": -0.13755076800205912,
+      "no_speech_prob": 0.26235657930374146
+    },
+    {
+      "start": 157.06,
+      "end": 164.1,
+      "text": "endroit qui m'est particulièrement cher. Le Dancefloor. Si on prend justement ce morceau",
+      "avg_logprob": -0.13755076800205912,
+      "no_speech_prob": 0.26235657930374146
+    },
+    {
+      "start": 164.1,
+      "end": 164.98,
+      "text": "d'ouverture de Carla.",
+      "avg_logprob": -0.6060117065906525,
+      "no_speech_prob": 0.9019861221313477
+    }
+  ]
+}

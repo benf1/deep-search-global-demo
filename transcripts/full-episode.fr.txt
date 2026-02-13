@@ -1,0 +1,400 @@
+[0.000 -> 2.000] Deep search.
+[2.000 -> 3.000] Deep search.
+[3.000 -> 5.000] Deep search.
+[5.000 -> 7.000] Bonjour, c'est Cynthia.
+[7.000 -> 14.000] Aujourd'hui, samedi 30 et un janvier 2026, 250 830 de nouveaux morceaux ont été ajoutés à notre playlist.
+[14.000 -> 19.000] Dans un souci de performance maximale, voici les nouvelles fonctionnalités d'écoute disponibles.
+[19.000 -> 22.000] Pour une écoute de foi plus efficace en mode stéréo, pressé 1.
+[22.000 -> 27.000] Pour un gain de temps optimal, en mode accéléré, pressé 2.
+[27.000 -> 33.720] Pour une performance augmentée, mode snippet interchangeable, pressé 3.
+[33.720 -> 34.720] Pressé 17.
+[34.720 -> 36.720] Pour le mode amplification binaire de musique déstructurée.
+[36.720 -> 39.100] Pressé 29.
+[39.100 -> 42.100] Pour le mode prouesse maximale, multi-diffusion à triple niveau de phase inversée.
+[44.100 -> 47.100] Si c'est votre anniversaire, tapez 210.
+[49.100 -> 53.100] Bonjour, mon nom est Laurent Garnier et je ne suis toujours pas une machine.
+[53.100 -> 56.100] Et ce mois-ci, j'ai encore écouté des milliers de morceaux,
+[56.100 -> 60.100] afin de ne retenir que le meilleur, rien que pour vous.
+[71.560 -> 77.560] C'est à tard de te voir, nervieuse à d'experer.
+[77.560 -> 80.560] C'est pour ça que je me suis vécu,
+[80.560 -> 83.560] à peine sans parler.
+[83.560 -> 86.560] Aujourd'hui, c'est une année, aujourd'hui,
+[86.560 -> 89.560] que je suis heureux et sans doute,
+[89.560 -> 92.560] de oublie, je t'ai mis
+[92.560 -> 95.560] devant le joueur, de l'hôpital.
+[95.560 -> 98.560] Et j'ai regardé le clock,
+[98.560 -> 101.560] les 8 vont être,
+[101.560 -> 104.560] ton trajet n'est pas arrivé,
+[104.560 -> 107.560] tu l'as attendu d'hier,
+[107.560 -> 110.560] et le moigneur qui est lucide,
+[110.560 -> 113.560] t'attends aujourd'hui,
+[113.560 -> 116.560] avec tant d'ir et de venir,
+[116.560 -> 120.560] t'as terminé de pleurer.
+[120.560 -> 123.560] T'envends et vas,
+[123.560 -> 126.560] au milieu du salon,
+[126.560 -> 129.560] t'envends plus et plus,
+[129.560 -> 132.560] le même que un cycle.
+[132.560 -> 135.560] Et tu ne sais pas ce que faire,
+[135.560 -> 138.560] si tu ris de pleurer,
+[138.560 -> 141.560] je complique mon devoir,
+[141.560 -> 144.560] je dois falloir,
+[144.560 -> 147.560] tu ne veux pas prétendre
+[147.560 -> 150.560] que je garde la fonction.
+[150.560 -> 153.560] Et nous ne pouvons pas voir
+[153.560 -> 156.560] ni un acte de manon
+[156.560 -> 159.560] tomando sin tardar
+[159.560 -> 162.560] en vuelo un avion
+[162.560 -> 165.560] podríamos llegar
+[165.560 -> 168.560] al bajar el pelon.
+[168.560 -> 175.530] Buena aniversario
+[175.530 -> 181.600] Buena aniversario
+[181.600 -> 184.600] el vestido llegó
+[184.600 -> 187.600] ya puedes respirar
+[187.600 -> 190.600] también respiro yo
+[190.600 -> 193.600] a punto de estallar
+[193.600 -> 196.600] más pronto comenzó
+[196.600 -> 199.600] un drama singular
+[199.600 -> 202.600] tu traje no cerro
+[202.600 -> 205.600] y te oiso y osar
+[205.600 -> 208.600] a tu espalda corrí
+[208.600 -> 211.600] con ganas de ayudar
+[211.600 -> 214.600] tan palida te vi
+[214.600 -> 217.600] como una flor de azar
+[217.600 -> 220.600] y el cierre escorrí
+[220.600 -> 223.600] más luego al intentar
+[223.600 -> 226.600] cerrarlo lo partir
+[226.600 -> 229.600] ay de mi por tirar
+[229.600 -> 232.600] a las once por fin
+[232.600 -> 235.600] con sido el desgarón
+[235.600 -> 238.600] pareces un jasmin
+[238.600 -> 241.600] en vuelta en el vison
+[241.600 -> 244.600] tratamos de alcanzar
+[244.600 -> 247.600] un acte de manon
+[247.600 -> 250.600] tan justos que al llegar
+[250.600 -> 253.600] termina la función
+[253.600 -> 256.600] donde quieres cenar
+[256.600 -> 259.600] muy triste te pedí
+[259.600 -> 262.600] tardaste en contestar
+[262.600 -> 265.600] diciendo luego así
+[265.600 -> 269.600] prefiero caminar contigo
+[269.600 -> 272.600] por paris
+[272.600 -> 275.600] y luego regresar
+[275.600 -> 282.120] para ser muy feliz
+[282.120 -> 288.130] Buena aniversario
+[288.130 -> 295.060] Buena aniversario
+[295.060 -> 308.460] Buena aniversario
+[308.460 -> 310.460] Buena aniversario
+[310.460 -> 312.460] Buena aniversario
+[312.460 -> 315.900] Buena aniversario
+[315.900 -> 317.900] Buena aniversario
+[317.900 -> 320.900] Buena aniversario
+[320.900 -> 322.900] Buena aniversario
+[322.900 -> 324.900] Buena aniversario
+[324.900 -> 326.900] Buena aniversario
+[326.900 -> 328.900] Buena aniversario
+[328.900 -> 330.900] Buena aniversario
+[330.900 -> 332.900] Buena aniversario
+[332.900 -> 334.900] Buena aniversario
+[334.900 -> 336.900] Buena aniversario
+[336.900 -> 338.900] Buena aniversario
+[338.900 -> 340.900] Buena aniversario
+[340.900 -> 342.900] Buena aniversario
+[342.900 -> 344.900] Buena aniversario
+[344.900 -> 347.900] Buena aniversario
+[347.900 -> 349.900] Buena aniversario
+[349.900 -> 351.900] Buena aniversario
+[351.900 -> 353.900] Buena aniversario
+[353.900 -> 355.900] Buena aniversario
+[355.900 -> 357.900] Buena aniversario
+[357.900 -> 359.900] Buena aniversario
+[359.900 -> 361.900] Buena aniversario
+[361.900 -> 363.900] Buena aniversario
+[363.900 -> 365.900] Buena aniversario
+[365.900 -> 367.900] Buena aniversario
+[367.900 -> 369.900] Buena aniversario
+[369.900 -> 371.900] Buena aniversario
+[371.900 -> 373.900] Buena aniversario
+[373.900 -> 375.900] Buena aniversario
+[375.900 -> 377.900] Buena aniversario
+[377.900 -> 379.900] Buena aniversario
+[379.900 -> 390.950] Buena aniversario
+[390.950 -> 392.950] Buena aniversario
+[392.950 -> 394.950] Buena aniversario
+[394.950 -> 396.950] Buena aniversario
+[396.950 -> 398.950] Buena aniversario
+[398.950 -> 400.950] Buena aniversario
+[400.950 -> 402.950] Buena aniversario
+[402.950 -> 404.950] Buena aniversario
+[404.950 -> 406.950] Buena aniversario
+[406.950 -> 408.950] Buena aniversario
+[408.950 -> 410.950] Buena aniversario
+[410.950 -> 412.950] Buena aniversario
+[412.950 -> 414.950] Buena aniversario
+[414.950 -> 416.950] Buena aniversario
+[416.950 -> 418.950] Buena aniversario
+[418.950 -> 420.950] Buena aniversario
+[420.950 -> 422.950] Buena aniversario
+[422.950 -> 424.950] Buena aniversario
+[424.950 -> 426.950] Buena aniversario
+[426.950 -> 428.950] Buena aniversario
+[428.950 -> 430.950] Buena aniversario
+[430.950 -> 432.950] Buena aniversario
+[432.950 -> 434.950] Buena aniversario
+[434.950 -> 436.950] Buena aniversario
+[436.950 -> 438.950] Buena aniversario
+[438.950 -> 440.950] Buena aniversario
+[440.950 -> 442.950] Buena aniversario
+[442.950 -> 444.950] Buena aniversario
+[444.950 -> 446.950] Buena aniversario
+[446.950 -> 448.950] Buena aniversario
+[448.950 -> 450.950] Buena aniversario
+[450.950 -> 452.950] Buena aniversario
+[452.950 -> 454.950] Buena aniversario
+[454.950 -> 456.950] Buena aniversario
+[456.950 -> 458.950] Buena aniversario
+[458.950 -> 460.950] Buena aniversario
+[460.950 -> 462.950] Buena aniversario
+[462.950 -> 464.950] Buena aniversario
+[464.950 -> 466.950] Buena aniversario
+[466.950 -> 468.950] Buena aniversario
+[468.950 -> 470.950] Buena aniversario
+[470.950 -> 472.950] Buena aniversario
+[472.950 -> 474.950] Buena aniversario
+[474.950 -> 476.950] Buena aniversario
+[476.950 -> 478.950] Buena aniversario
+[478.950 -> 480.950] Buena aniversario
+[480.950 -> 482.950] Buena aniversario
+[482.950 -> 484.950] Buena aniversario
+[484.950 -> 486.950] Buena aniversario
+[486.950 -> 488.950] Buena aniversario
+[488.950 -> 490.950] Ma tête a fait
+[661.770 -> 663.770] A séquence
+[819.580 -> 1273.130] Of the Witch
+[1293.140 -> 1297.140] La musique de Fela, je vais la découvrir un peu plus tard.
+[1297.140 -> 1299.140] C'est Jean-François Biseau
+[1299.140 -> 1302.140] qui m'a fait écouter Fela pour la première fois.
+[1302.140 -> 1306.140] Jean-François, si jamais tu nous écoutes de là-haut, de tout là-haut,
+[1306.140 -> 1316.460] celle-là, elle est pour toi.
+[1359.720 -> 1361.720] Oh l'olopamie
+[1362.720 -> 1364.720] Puyo ché t'y warm
+[1364.720 -> 1370.530] T'y annez mon pain
+[1370.530 -> 1770.260] 1969
+[1770.260 -> 1772.260] Deep Search
+[1772.260 -> 1774.260] Un jour je découvre sur une compilation obscure
+[1774.260 -> 1777.260] ce morceau de Dick Hyman sorti en 1969.
+[1777.260 -> 1779.260] Là, je pète les plombs,
+[1779.260 -> 1781.260] sachant que je joue à New York le week-end suivant,
+[1781.260 -> 1783.260] je me fais un édite
+[1783.260 -> 1785.260] et je décide de le jouer là-bas.
+[1785.260 -> 1787.260] Forcément, vu leur histoire avec la soul et la funk,
+[1787.260 -> 1789.260] ils vont adorer.
+[1790.260 -> 1792.260] Mais visiblement, c'était pas le bon soir,
+[1792.260 -> 1795.260] parce que j'ai carrément vider la piste.
+[1795.260 -> 1807.060] En 1970, Edwin Starr chante war.
+[1808.060 -> 1811.060] 33 ans plus tard, je me retrouve à Manchester,
+[1811.060 -> 1814.060] la semaine où les États-Unis partent en guerre contre l'Irak.
+[1815.060 -> 1817.060] Je peux vous dire que quand j'ai joué ça,
+[1817.060 -> 1821.060] le club a littéralement explosé.
+[2000.980 -> 2008.510] 1961
+[2157.350 -> 2160.350] Un morceau sorti en 1971,
+[2160.350 -> 2163.350] signé du Quatuor originaire des Bahamas,
+[2163.350 -> 2166.350] le groupe The Beginning of the End.
+[2166.350 -> 2168.350] Alors celui-ci, je l'ai entendu pour la première fois
+[2168.350 -> 2169.350] dans une warehouse partie
+[2169.350 -> 2172.350] quand j'habitais à Londres dans les années 80.
+[2172.350 -> 2175.350] Là, il y a une sorte de feu d'artifice dans ma tête.
+[2175.350 -> 2177.350] Et je crois qu'à ce moment-là,
+[2177.350 -> 2182.430] j'ai tout donné sur le dance floor.
+[2182.430 -> 2185.430] On continue avec un autre disque sorti en 1971.
+[2185.430 -> 2187.430] Ça, c'est un disque particulier
+[2187.430 -> 2189.430] parce que celui-ci, je l'ai joué à mon tout premier gig
+[2189.430 -> 2191.430] quand j'avais 14 ans.
+[2191.430 -> 2193.430] En fait, ma grand-mère avait une auberge
+[2193.430 -> 2195.430] et la veille de Nouvelle-Anne se fait planter
+[2195.430 -> 2198.430] par le DJ qui devait jouer le 31 décembre.
+[2198.430 -> 2199.430] Donc elle m'appelle.
+[2199.430 -> 2200.430] Elle me dit, arrête pas de nous bassiner,
+[2200.430 -> 2202.430] de nous dire que tu veux jouer des disques.
+[2202.430 -> 2205.430] Et donc mon premier gig, c'était à l'auberge de ma grand-mère,
+[2205.430 -> 2206.430] un soir de Nouvelle-Anne
+[2206.430 -> 2209.430] et vu que je parlais à un public de 7 à 77 ans,
+[2209.430 -> 2211.430] j'ai joué ce disque-là.
+[2211.430 -> 2539.370] ...
+[2539.370 -> 2703.900] Il me paraît important de vous préciser
+[2703.900 -> 2705.900] à ce stade que le morceau de Michel Fuguin,
+[2705.900 -> 2706.900] fait comme l'oiseau,
+[2706.900 -> 2710.900] est un énorme Guilty Pleasure pour moi.
+[2710.900 -> 2712.900] Ça, je peux pas le cacher,
+[2712.900 -> 2715.900] c'est forcément dû à la nostalgie de ma petite enfance.
+[2715.900 -> 2716.900] Quand j'étais en CM1,
+[2716.900 -> 2717.900] mon frère organisait des spectacles
+[2717.900 -> 2719.900] dans la salle des fêtes de la ville
+[2719.900 -> 2721.900] où j'habitais, à Boujival.
+[2721.900 -> 2723.900] Nos différents numéros passaient de Sylvie Vartan
+[2723.900 -> 2725.900] à Jean-Yann, à Liza Minelli
+[2725.900 -> 2727.900] ou encore à Nicordi.
+[2727.900 -> 2728.900] Et le grand final,
+[2728.900 -> 2730.900] était sur cette chanson de Fuguin
+[2730.900 -> 2732.900] où, entouré de nos potes de classe,
+[2732.900 -> 2735.900] on implorait le public de faire comme des oiseaux.
+[2735.900 -> 2737.900] ...
+[2737.900 -> 2738.900] Le titre de Frankie Valic,
+[2738.900 -> 2740.900] nous sommes en train d'écouter.
+[2740.900 -> 2742.900] Celui-ci, je l'ai découvert
+[2742.900 -> 2743.900] sur la piste de la Sienda,
+[2743.900 -> 2744.900] à Manchester,
+[2744.900 -> 2746.900] un soir où jouait DJ Dean.
+[2746.900 -> 2748.900] DJ spécialisé dans la musique
+[2748.900 -> 2750.900] dit Northern Soul.
+[2750.900 -> 2752.900] A l'époque, je connaissais pas encore bien
+[2752.900 -> 2754.900] tout le mouvement et l'histoire de cette musique-là.
+[2754.900 -> 2756.900] Mais souvent, je dis qu'il y a toujours une clé
+[2756.900 -> 2757.900] pour ouvrir une porte
+[2757.900 -> 2759.900] et nous permettre de rentrer
+[2759.900 -> 2760.900] dans un nouvel univers.
+[2760.900 -> 2762.900] Et c'est précisément ce morceau-là
+[2762.900 -> 2763.900] qui m'a fait basculer
+[2763.900 -> 2765.900] dans la galaxie vibrante
+[2765.900 -> 2767.900] de la Northern Soul.
+[2767.900 -> 2773.260] Un jour, je jouais sur une plage
+[2773.260 -> 2774.260] dans le sud de la France
+[2774.260 -> 2776.260] et là, sur le dancefloor face à moi,
+[2776.260 -> 2778.260] je croisais le regard d'une amie
+[2778.260 -> 2780.260] très très proche
+[2780.260 -> 2782.260] de notre très regretté Rémi Colpacopoulas.
+[2782.260 -> 2784.260] Elle, je l'avais parvue
+[2784.260 -> 2786.260] depuis le départ de Rémi
+[2786.260 -> 2788.260] et à ce moment, j'ai eu envie de lui dire
+[2788.260 -> 2790.260] combien il nous manquait à nous tous aussi.
+[2790.260 -> 2792.260] Alors, j'ai décidé de jouer
+[2792.260 -> 2794.260] ce morceau brésilien de 1973
+[2794.260 -> 2796.260] et vu le sourire qui s'est dessiné
+[2796.260 -> 2797.260] sur son visage,
+[2797.260 -> 2799.260] je pense qu'elle a capté le message
+[2799.260 -> 2801.260] 5 sur 5.
+[2902.240 -> 2905.940] Au début des années 90,
+[2905.940 -> 2907.940] on parlait du jazz café.
+[2907.940 -> 2909.940] Apparemment, là-bas, les meilleurs artistes
+[2909.940 -> 2911.940] et meilleurs DJs, les meilleurs live
+[2911.940 -> 2913.940] de la scène jazz funk londonienne
+[2913.940 -> 2914.940] s'y produisent.
+[2914.940 -> 2915.940] Un soir, je vais écouter
+[2915.940 -> 2916.940] un certain Gilles Peterson
+[2916.940 -> 2917.940] qui, voyant bien que la piste
+[2917.940 -> 2919.940] était en train de monter en pression,
+[2919.940 -> 2921.940] dégaine un morceau de 1973
+[2921.940 -> 3189.890] où là, mon coeur fait...
+[3189.890 -> 3316.340] Gipsurge.
+[3316.340 -> 3318.340] Quel merveille,
+[3318.340 -> 3320.340] mais quel merveille ce morceau-là.
+[3320.340 -> 3326.070] Pour moi, ce titre,
+[3326.070 -> 3328.070] c'est le souvenir de mon premier set
+[3328.070 -> 3385.460] au festival Black and Bass
+[3385.460 -> 3387.460] qu'en 2011 à Bayonne.
+[3387.460 -> 3388.460] C'était ma toute première fois
+[3388.460 -> 3389.460] où je jouais pour Moustique,
+[3389.460 -> 3390.460] qui organisait ce festival
+[3390.460 -> 3391.460] et comme j'ai joué ce titre
+[3391.460 -> 3393.460] ce soir-là,
+[3393.460 -> 3394.460] m'intéressant,
+[3394.460 -> 3395.460] j'en avais pas le temps
+[3395.460 -> 3396.460] d'en parler,
+[3396.460 -> 3397.460] mais j'en avais le temps
+[3397.460 -> 3398.460] d'en parler,
+[3398.460 -> 3399.460] j'en avais le temps
+[3399.460 -> 3400.460] d'en parler,
+[3400.460 -> 3401.460] j'en avais le temps
+[3401.460 -> 3402.460] d'en parler,
+[3402.460 -> 3403.460] j'en avais le temps
+[3403.460 -> 3404.460] d'en parler,
+[3404.460 -> 3405.460] maintenant quand je l'écoute,
+[3405.460 -> 3406.460] il symbolise
+[3406.460 -> 3408.460] le départ d'une très belle
+[3408.460 -> 3410.460] et longue amitié.
+[3410.460 -> 3412.460] Donc petit big up à toi,
+[3412.460 -> 3413.460] M. Moustique.
+[3413.460 -> 3416.640] En restant sur le thème
+[3416.640 -> 3417.640] des toutes premières fois,
+[3417.640 -> 3418.640] j'ai organisé
+[3418.640 -> 3419.640] ma toute première boum
+[3419.640 -> 3421.640] quand j'étais en CM2.
+[3421.640 -> 3422.640] Ce jour-là,
+[3422.640 -> 3423.640] sachant que j'aimais
+[3423.640 -> 3424.640] déjà bien la musique,
+[3424.640 -> 3425.640] mon pote Samir m'offre
+[3425.640 -> 3426.640] un album de la cordéoniste
+[3426.640 -> 3427.640] Louis Corshia.
+[3427.640 -> 3428.640] Dis que j'ai d'ailleurs
+[3428.640 -> 3429.640] toujours gardé
+[3429.640 -> 3430.640] précieusement
+[3430.640 -> 3431.640] dans ma collection.
+[3431.640 -> 3432.640] Et quand il me l'offre,
+[3432.640 -> 3433.640] il me dit,
+[3433.640 -> 3434.640] je suis pas sûr
+[3434.640 -> 3435.640] que tu vas aimer ça.
+[3435.640 -> 3436.640] Je pense qu'il me connaissait
+[3436.640 -> 3437.640] un petit peu.
+[3437.640 -> 3438.640] Moi, à l'époque,
+[3438.640 -> 3439.640] j'étais obsédé
+[3439.640 -> 3440.640] par un disque
+[3440.640 -> 3441.640] que mon frère
+[3441.640 -> 3442.640] écoutait tout le temps
+[3442.640 -> 3443.640] dans sa chambre.
+[3443.640 -> 3444.640] Ça me donnait vraiment
+[3444.640 -> 3445.640] envie de danser
+[3445.640 -> 3446.640] et en effet,
+[3446.640 -> 3585.020] il n'y avait pas beaucoup
+[3585.020 -> 3586.020] d'accordéons.
+[3586.020 -> 3627.660] 1975.
+[3627.660 -> 3798.670] C'est pas merveilleux,
+[3798.670 -> 3944.730] ce morceau.
+[3944.730 -> 3945.730] Turn off the lights.
+[3945.730 -> 3946.730] Ça, c'est...
+[3946.730 -> 3947.730] Turn off the lights.
+[3947.730 -> 3948.730] Ça, c'est un morceau
+[3948.730 -> 3949.730] qui fait pour moi
+[3949.730 -> 3950.730] éteint les lumières
+[3950.730 -> 3951.730] et met la boule à facette
+[3951.730 -> 3952.730] ou met le strobe.
+[3952.730 -> 3953.730] Voilà.
+[3953.730 -> 3955.730] En novembre 2011,
+[3955.730 -> 3956.730] je partage
+[3956.730 -> 3957.730] les platines
+[3957.730 -> 3958.730] du Rex Club
+[3958.730 -> 3959.730] avec Akenaton.
+[3963.170 -> 3964.170] On s'était rencontrés
+[3964.170 -> 3965.170] quelques années plus tôt
+[3965.170 -> 3966.170] et on parlait
+[3966.170 -> 3967.170] de funk,
+[3967.170 -> 3968.170] de soul,
+[3968.170 -> 3969.170] de hip hop ensemble
+[3969.170 -> 3970.170] et on s'est dit,
+[3970.170 -> 3971.170] tiens,
+[3971.170 -> 3972.170] un jour,
+[3972.170 -> 3973.170] ça serait cool
+[3973.170 -> 3974.170] qu'on aille jouer
+[3974.170 -> 3975.170] des disques.
+[3975.170 -> 3976.170] Et bien,
+[3976.170 -> 3977.170] ce soir,
+[3977.170 -> 3978.170] c'est un morceau
+[3978.170 -> 3979.170] qui fait pour moi
+[3979.170 -> 3980.170] éteint les lumières
+[3980.170 -> 3981.170] et bien,
+[3981.170 -> 3982.170] ce soir-là,
+[3982.170 -> 3984.170] j'ai joué Turn off the lights.
+[3984.170 -> 3986.170] Je me rappelle très bien.
+[3986.170 -> 3988.170] J'ai l'enregistrement.
+[3988.170 -> 4000.380] 1976.
+[4001.380 -> 4002.380] On passe sur un track
+[4002.380 -> 4003.380] qui me rappelle
+[4003.380 -> 4004.380] la première fois
+[4004.380 -> 4005.380] où j'ai joué un set
+[4005.380 -> 4007.380] 100% dub.
+[4007.380 -> 4008.380] C'était au bateau phare
+[4008.380 -> 4009.380] à Paris
+[4009.380 -> 4010.380] et je me souviens
+[4010.380 -> 4011.380] très bien
+[4011.380 -> 4012.380] avoir ouvert mon set
+[4012.380 -> 4013.380] avec ce morceau
+[4013.380 -> 4046.500] des Upsetters.
+[4059.420 -> 4062.420] Sous-titres réalisés par la communauté Amara.org

@@ -1,0 +1,945 @@
+{
+  "detected_language": "fr",
+  "language_probability": 1,
+  "duration": 599.9945625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Deep Search",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Deep Search",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Deep Search",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Bonjour, c'est Cynthia.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Aujourd'hui, samedi 30 et un janvier 2026.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "250 830 de nouveaux morceaux",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "ont été ajoutés à notre playlist.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Dans un souci de performance maximale,",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "voici les nouvelles fonctionnalités",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "des coupes disponibles.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Pour une écoute de foi plus efficace en mode stéréo, pressé 1.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Pour un gain de temps optimal,",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "en mode accéléré, pressé 2.",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Pour une performance augmentée,",
+      "avg_logprob": -0.20063257453252945,
+      "no_speech_prob": 0.13204847276210785
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "mode snippet interchangeable, pressé 3.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 32.0,
+      "end": 35.5,
+      "text": "Pressé 17. Pour le mode amplification binaire",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 35.5,
+      "end": 38.78,
+      "text": "de musique déstructurée.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 38.78,
+      "end": 40.78,
+      "text": "Pressé 29. Pour le mode Pro-S Maximal,",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 40.78,
+      "end": 42.78,
+      "text": "multi-diffusion à triple niveau de phase inversée.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 44.78,
+      "end": 46.78,
+      "text": "Si c'est votre anniversaire, tapez 210.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 50.03,
+      "end": 52.03,
+      "text": "Bonjour, mon nom est Laurent Garnier",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 52.03,
+      "end": 54.03,
+      "text": "et je ne suis toujours pas une machine.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 54.03,
+      "end": 56.03,
+      "text": "Et ce mois-ci, j'ai encore écouté des milliers de morceaux",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 56.03,
+      "end": 58.03,
+      "text": "afin de ne retenir que le meilleur.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 58.03,
+      "end": 60.03,
+      "text": "Rien que pour vous.",
+      "avg_logprob": -0.12992590871350518,
+      "no_speech_prob": 0.03973893076181412
+    },
+    {
+      "start": 72.53,
+      "end": 74.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 74.53,
+      "end": 76.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 76.53,
+      "end": 78.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 78.53,
+      "end": 80.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 80.53,
+      "end": 82.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 82.53,
+      "end": 84.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 84.53,
+      "end": 86.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 86.53,
+      "end": 88.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 88.53,
+      "end": 90.53,
+      "text": "Merci.",
+      "avg_logprob": -0.4161555850714968,
+      "no_speech_prob": 0.8425888419151306
+    },
+    {
+      "start": 102.53,
+      "end": 104.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.29242051924977985,
+      "no_speech_prob": 0.9702641367912292
+    },
+    {
+      "start": 104.53,
+      "end": 106.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.29242051924977985,
+      "no_speech_prob": 0.9702641367912292
+    },
+    {
+      "start": 132.53,
+      "end": 134.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.1906531240258898,
+      "no_speech_prob": 0.9254359006881714
+    },
+    {
+      "start": 134.53,
+      "end": 136.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.1906531240258898,
+      "no_speech_prob": 0.9254359006881714
+    },
+    {
+      "start": 162.53,
+      "end": 164.53,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.16124425296272551,
+      "no_speech_prob": 0.9132401943206787
+    },
+    {
+      "start": 164.53,
+      "end": 166.53,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.16124425296272551,
+      "no_speech_prob": 0.9132401943206787
+    },
+    {
+      "start": 200.08,
+      "end": 202.08,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.16803797973053797,
+      "no_speech_prob": 0.8581854104995728
+    },
+    {
+      "start": 202.08,
+      "end": 204.08,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.16803797973053797,
+      "no_speech_prob": 0.8581854104995728
+    },
+    {
+      "start": 231.94,
+      "end": 233.94,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.10186394836221423,
+      "no_speech_prob": 0.9573273658752441
+    },
+    {
+      "start": 233.94,
+      "end": 235.94,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.10186394836221423,
+      "no_speech_prob": 0.9573273658752441
+    },
+    {
+      "start": 261.94,
+      "end": 263.94,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.19757409529252487,
+      "no_speech_prob": 0.7132518291473389
+    },
+    {
+      "start": 263.94,
+      "end": 265.94,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.19757409529252487,
+      "no_speech_prob": 0.7132518291473389
+    },
+    {
+      "start": 265.94,
+      "end": 267.94,
+      "text": "Merci d'avoir regardé",
+      "avg_logprob": -0.19757409529252487,
+      "no_speech_prob": 0.7132518291473389
+    },
+    {
+      "start": 267.94,
+      "end": 269.94,
+      "text": "cette vidéo.",
+      "avg_logprob": -0.19757409529252487,
+      "no_speech_prob": 0.7132518291473389
+    },
+    {
+      "start": 308.32,
+      "end": 310.32,
+      "text": "Bonsoir",
+      "avg_logprob": -0.19757409529252487,
+      "no_speech_prob": 0.7132518291473389
+    },
+    {
+      "start": 310.32,
+      "end": 312.32,
+      "text": "Je me demande bien pourquoi",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 312.32,
+      "end": 314.32,
+      "text": "j'ai décidé d'ouvrir",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 314.32,
+      "end": 316.32,
+      "text": "l'émission avec ça.",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 316.32,
+      "end": 318.32,
+      "text": "Bon, je pense qu'il y en a déjà pas mal",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 318.32,
+      "end": 320.32,
+      "text": "qu'ils le savent, mais ce soir",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 320.32,
+      "end": 322.32,
+      "text": "à minuit exactement",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 322.32,
+      "end": 324.32,
+      "text": "on passe au 1er février",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 324.32,
+      "end": 326.32,
+      "text": "et moi, là",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 326.32,
+      "end": 328.32,
+      "text": "je passe de l'autre côté",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 328.32,
+      "end": 330.32,
+      "text": "de la montagne.",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 330.32,
+      "end": 332.32,
+      "text": "Je prends ça",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 332.32,
+      "end": 334.32,
+      "text": "et je passe",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 334.32,
+      "end": 336.32,
+      "text": "de l'autre côté",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 336.32,
+      "end": 338.32,
+      "text": "de la montagne.",
+      "avg_logprob": -0.21668473675719693,
+      "no_speech_prob": 0.6274092197418213
+    },
+    {
+      "start": 338.32,
+      "end": 340.32,
+      "text": "Je prends",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 340.32,
+      "end": 342.32,
+      "text": "60 ans.",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 342.32,
+      "end": 344.32,
+      "text": "Ouais, c'est le Big 6 O",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 344.32,
+      "end": 346.32,
+      "text": "le genre de truc qui pique un peu",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 346.32,
+      "end": 348.32,
+      "text": "les yeux quand même.",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 348.32,
+      "end": 350.32,
+      "text": "Donc ce soir",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 350.32,
+      "end": 352.32,
+      "text": "émission un petit peu spéciale",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 352.32,
+      "end": 354.32,
+      "text": "voilà pourquoi nous avons",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 354.32,
+      "end": 356.32,
+      "text": "décalé l'émission",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 356.32,
+      "end": 358.32,
+      "text": "à cette nuit parce que vu que c'est",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 358.32,
+      "end": 360.32,
+      "text": "mon anniversaire et pas des moindres",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 360.32,
+      "end": 362.32,
+      "text": "d'ailleurs, fallait bien que je marque",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 362.32,
+      "end": 364.32,
+      "text": "le coup en vous proposant",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 364.32,
+      "end": 366.32,
+      "text": "une émission différente.",
+      "avg_logprob": -0.10674577628572782,
+      "no_speech_prob": 0.0572068877518177
+    },
+    {
+      "start": 366.32,
+      "end": 368.32,
+      "text": "En 1966",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 368.32,
+      "end": 370.32,
+      "text": "Johnny chante",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 370.32,
+      "end": 372.32,
+      "text": "Noir c'est noir",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 372.32,
+      "end": 374.32,
+      "text": "Hendrix chante",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 374.32,
+      "end": 376.32,
+      "text": "Hey Joe",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 376.32,
+      "end": 378.32,
+      "text": "Nancy Sinatra chante",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 378.32,
+      "end": 380.32,
+      "text": "Bang Bang",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 380.32,
+      "end": 391.38,
+      "text": "et Carla Thomas chante ça",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 391.38,
+      "end": 393.38,
+      "text": "Carla Thomas chante Baby",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 393.38,
+      "end": 395.38,
+      "text": "moi j'arrive",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 395.38,
+      "end": 397.38,
+      "text": "en 1966",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 397.38,
+      "end": 399.38,
+      "text": "donc ouvrir avec un morceau",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 399.38,
+      "end": 401.38,
+      "text": "de 66 qui s'appelle Baby",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 401.38,
+      "end": 403.38,
+      "text": "ça a du sens",
+      "avg_logprob": -0.12728070103459888,
+      "no_speech_prob": 0.30792608857154846
+    },
+    {
+      "start": 403.38,
+      "end": 405.38,
+      "text": "ce soir nous allons écouter",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 405.38,
+      "end": 407.38,
+      "text": "beaucoup",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 407.38,
+      "end": 409.38,
+      "text": "beaucoup mais alors vraiment beaucoup de musique",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 409.38,
+      "end": 411.38,
+      "text": "vu la playlist que je vous ai préparé",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 411.38,
+      "end": 413.38,
+      "text": "nous allons passer",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 413.38,
+      "end": 415.38,
+      "text": "toute la nuit ensemble",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 415.38,
+      "end": 417.38,
+      "text": "ouais vous m'avez bien entendu",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 417.38,
+      "end": 419.38,
+      "text": "je vais vous jouer de la musique",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 419.38,
+      "end": 421.38,
+      "text": "jusqu'au petit matin",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 421.38,
+      "end": 423.38,
+      "text": "en fait",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 423.38,
+      "end": 425.38,
+      "text": "nous allons remonter le temps musicalement",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 425.38,
+      "end": 427.38,
+      "text": "de 1966",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 427.38,
+      "end": 429.38,
+      "text": "à 2026",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 429.38,
+      "end": 431.38,
+      "text": "les morceaux que j'ai sélectionnés",
+      "avg_logprob": -0.08649898657821259,
+      "no_speech_prob": 0.05891144648194313
+    },
+    {
+      "start": 431.38,
+      "end": 433.38,
+      "text": "raisonnent tous particulièrement",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 433.38,
+      "end": 435.38,
+      "text": "pour moi",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 435.38,
+      "end": 437.38,
+      "text": "on ne sait jamais trop pourquoi un titre va nous marquer",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 437.38,
+      "end": 439.38,
+      "text": "plus qu'un autre mais ce soir",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 439.38,
+      "end": 441.38,
+      "text": "je vais profiter de vous jouer uniquement",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 441.38,
+      "end": 443.38,
+      "text": "des morceaux qui me font",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 443.38,
+      "end": 445.38,
+      "text": "surkiffer",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 445.38,
+      "end": 447.38,
+      "text": "et comme la musique a ce pouvoir",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 447.38,
+      "end": 449.38,
+      "text": "de convoquer les souvenirs d'un moment",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 449.38,
+      "end": 451.38,
+      "text": "d'un lieu ou d'une personne",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 451.38,
+      "end": 453.38,
+      "text": "ce soir je vais vous jouer de la musique toute la nuit",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 453.38,
+      "end": 455.38,
+      "text": "et vous raconter des histoires",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 455.38,
+      "end": 457.38,
+      "text": "la magie des morceaux",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 457.38,
+      "end": 459.38,
+      "text": "qui nous touche nous permet d'imprimer",
+      "avg_logprob": -0.054244431400937695,
+      "no_speech_prob": 0.037043798714876175
+    },
+    {
+      "start": 459.38,
+      "end": 461.38,
+      "text": "nos aventures",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 461.38,
+      "end": 463.38,
+      "text": "et forcément vu mon parcours",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 463.38,
+      "end": 465.38,
+      "text": "beaucoup de mes souvenirs sont liés avec un endroit",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 465.38,
+      "end": 467.38,
+      "text": "qui m'est particulièrement cher",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 467.38,
+      "end": 469.38,
+      "text": "le dance floor",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 469.38,
+      "end": 471.38,
+      "text": "si on prend justement",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 471.38,
+      "end": 473.38,
+      "text": "ce morceau d'ouverture de Carla Thomas",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 473.38,
+      "end": 475.38,
+      "text": "sorti en 1966",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 475.38,
+      "end": 477.38,
+      "text": "celui-là je l'ai entendu pour la première fois",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 477.38,
+      "end": 479.38,
+      "text": "sur la piste de danse des soirées twist and shout",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 481.38,
+      "end": 483.38,
+      "text": "soirées dédiées aux années 60",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 483.38,
+      "end": 485.38,
+      "text": "et à la mot town",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 485.38,
+      "end": 487.38,
+      "text": "dans un club londonien qui s'appelait le Camden Palace",
+      "avg_logprob": -0.0939030825640216,
+      "no_speech_prob": 0.03961975499987602
+    },
+    {
+      "start": 487.38,
+      "end": 489.38,
+      "text": "et là quand j'ai entendu ça",
+      "avg_logprob": -0.12050241582533892,
+      "no_speech_prob": 0.1361483782529831
+    },
+    {
+      "start": 489.38,
+      "end": 491.38,
+      "text": "ma tête a fait",
+      "avg_logprob": -0.12050241582533892,
+      "no_speech_prob": 0.1361483782529831
+    }
+  ]
+}
