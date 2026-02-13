@@ -166,24 +166,9 @@
           0 10px 18px rgba(0, 0, 0, 0.44);
       }
 
-      .voice-lang {
-        margin: 0;
-        font-size: 0.75rem;
-        font-weight: 700;
-        color: #ffd5ea;
-        text-transform: uppercase;
-        letter-spacing: 0.06em;
-      }
-
       .voice-name {
-        margin: 6px 0 0;
+        margin: 0;
         font-size: 1.08rem;
-      }
-
-      .voice-desc {
-        margin: 6px 0 0;
-        color: var(--muted);
-        font-size: 0.9rem;
       }
 
       .voice-card:focus-visible {
@@ -233,21 +218,15 @@
 
       <section class="cards" aria-label="Voice selection">
         <button class="voice-card is-active" type="button" data-voice-id="original" aria-pressed="true">
-          <p class="voice-lang">French</p>
-          <h3 class="voice-name">Original Voice</h3>
-          <p class="voice-desc">Untouched segment from the broadcast.</p>
+          <h3 class="voice-name">Original</h3>
         </button>
 
         <button class="voice-card" type="button" data-voice-id="english" aria-pressed="false">
-          <p class="voice-lang">English</p>
-          <h3 class="voice-name">Clone 1</h3>
-          <p class="voice-desc">English localized clone with matching pacing.</p>
+          <h3 class="voice-name">English Clone</h3>
         </button>
 
         <button class="voice-card" type="button" data-voice-id="spanish" aria-pressed="false">
-          <p class="voice-lang">Spanish</p>
-          <h3 class="voice-name">Clone 1</h3>
-          <p class="voice-desc">Spanish localized clone with matching pacing.</p>
+          <h3 class="voice-name">Spanish Clone</h3>
         </button>
       </section>
     </main>
